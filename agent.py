@@ -17,6 +17,7 @@ import tensorflow as tf
 from tensorflow.keras import layers
 import random
 from collections import deque
+import random
 
 
 class QNetwork(tf.keras.Model):
@@ -166,30 +167,85 @@ class Agent:
         epsilon_decay=0.995,
         min_epsilon=0.1,
     ):
+        """
+        Initialize the Agent with its set of actions and learning parameters.
+
+        :param actions: List of possible actions the agent can take.
+        :param alpha: Learning rate for Q-learning updates.
+        :param gamma: Discount factor for future rewards.
+        :param epsilon: Initial exploration rate.
+        :param epsilon_decay: Rate at which epsilon decays over episodes.
+        :param min_epsilon: Minimum exploration rate.
+        """
         self.actions = actions
         self.alpha = alpha  # Learning rate
         self.gamma = gamma  # Discount factor
         self.epsilon = epsilon  # Exploration-exploitation trade-off
         self.epsilon_decay = epsilon_decay
         self.min_epsilon = min_epsilon
-        self.q_table = None  # To be initialized during training
+        self.q_table = None  # Initialize Q-table as None
 
     def initialize_q_table(self, num_queries):
+        """
+        Initialize the Q-table with zeros. Assumes state space is discrete and represents
+        states by indices from 0 to num_queries - 1.
+
+        :param num_queries: The number of possible states (queries) the agent can encounter.
+        """
         self.q_table = np.zeros((num_queries, len(self.actions)))  # State x Actions
 
     def select_action(self, state):
-        # Exploration or exploitation decision
+        """
+        Select an action based on the current Q-table and epsilon-greedy policy.
+
+        :param state: The current state, represented by an index.
+        :return: The selected action index.
+        """
+        # Use epsilon-greedy approach: Explore or exploit
         if random.uniform(0, 1) < self.epsilon:
-            return random.randint(0, len(self.actions) - 1)  # Explore
+            return random.randint(
+                0, len(self.actions) - 1
+            )  # Explore with a random action
         else:
-            return np.argmax(self.q_table[state])  # Exploit
+            # Exploit the best-known action if Q-table is initialized, otherwise choose randomly
+            if self.q_table is not None:
+                return np.argmax(
+                    self.q_table[state]
+                )  # Choose best action for the given state
+            else:
+                return random.randint(0, len(self.actions) - 1)
 
     def update_q_table(self, state, action, reward, next_state):
-        self.q_table[state, action] += self.alpha * (
-            reward
-            + self.gamma * np.max(self.q_table[next_state])
-            - self.q_table[state, action]
-        )
+        """
+        Update the Q-table based on the observed reward and next state.
+
+        :param state: Current state index.
+        :param action: Action taken.
+        :param reward: Observed reward after taking the action.
+        :param next_state: Next state index after the action.
+        """
+        if self.q_table is not None:
+            # Q-learning update rule
+            best_future_value = (
+                np.max(self.q_table[next_state]) if next_state is not None else 0
+            )
+            self.q_table[state, action] += self.alpha * (
+                reward + self.gamma * best_future_value - self.q_table[state, action]
+            )
 
     def decay_epsilon(self):
+        """
+        Decay the exploration rate (epsilon) after each episode to favor exploitation over time.
+        """
         self.epsilon = max(self.min_epsilon, self.epsilon * self.epsilon_decay)
+
+    def reset_epsilon(self, epsilon=None):
+        """
+        Reset epsilon to its original or a specified value, typically done between training phases.
+
+        :param epsilon: Optional parameter to set epsilon to a specific value.
+        """
+        if epsilon is not None:
+            self.epsilon = epsilon
+        else:
+            self.epsilon = 0.8  # Default initial value, can be adjusted
