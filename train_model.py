@@ -1,66 +1,3 @@
-# import pandas as pd
-# from sklearn.model_selection import train_test_split
-# from sklearn.feature_extraction.text import TfidfVectorizer
-# from imblearn.over_sampling import SMOTE
-# from sklearn.naive_bayes import MultinomialNB
-# from sklearn.pipeline import Pipeline
-# from sklearn.metrics import classification_report
-# from joblib import dump
-
-# # Load your dataset
-# data = pd.read_csv("sqli_dataset.csv")
-
-# # Handle NaN values by replacing NaN with empty strings and ensure the query is treated as a string
-# data["query"] = data["query"].fillna("").astype(str)
-
-# # Ensure labels (1 for SQLi, 0 for normal queries) are numeric and valid
-# data["label"] = pd.to_numeric(data["label"], errors="coerce").fillna(-1).astype(int)
-
-# # Features (SQL queries) and Labels (1 for SQLi, 0 for normal queries)
-# X = data["query"]  # Feature
-# y = data["label"]  # Target label
-
-# # Split dataset into training and testing sets
-# X_train, X_test, y_train, y_test = train_test_split(
-#     X, y, test_size=0.2, random_state=42
-# )
-
-# # Create a TfidfVectorizer
-# vectorizer = TfidfVectorizer()
-
-# # Vectorize the training data
-# X_train_vectorized = vectorizer.fit_transform(X_train)
-# X_test_vectorized = vectorizer.transform(X_test)
-
-# # Initialize SMOTE
-# smote = SMOTE(random_state=42)
-
-# # Apply SMOTE to the vectorized training data
-# X_resampled, y_resampled = smote.fit_resample(X_train_vectorized, y_train)
-
-# # Create a pipeline with TfidfVectorizer and Naive Bayes Classifier
-# pipeline = Pipeline(
-#     [
-#         # ("tfidf", TfidfVectorizer()),  # Step 1: Vectorization
-#         ("nb", MultinomialNB()),  # Step 2: Naive Bayes classification
-#     ]
-# )
-
-# # Train the pipeline on the resampled data
-# pipeline.fit(X_resampled, y_resampled)
-
-# # Evaluate the pipeline on the test set
-# y_pred = pipeline.predict(X_test_vectorized)
-
-# # Print the classification report
-# print(classification_report(y_test, y_pred))
-
-# # Save the trained pipeline
-# dump(pipeline, "sqli_model.pkl")
-
-# print("Pipeline model trained and saved as sqli_pipeline_model.pkl")
-
-
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -68,6 +5,7 @@ from imblearn.over_sampling import SMOTE
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import classification_report
+from sklearn.metrics import confusion_matrix
 from joblib import dump
 import re
 
@@ -136,6 +74,22 @@ pipeline.fit(X_train, y_train)
 
 # Evaluate the pipeline on the test set
 y_pred = pipeline.predict(X_test)
+# Compute the confusion matrix
+cm = confusion_matrix(y_test, y_pred, labels=[1, 0])  # [SQLi=1, Normal=0]
+
+# Extract components of the confusion matrix
+TP = cm[0, 0]  # True Positives: SQLi correctly predicted
+FN = cm[0, 1]  # False Negatives: SQLi wrongly predicted as Normal
+FP = cm[1, 0]  # False Positives: Normal wrongly predicted as SQLi
+TN = cm[1, 1]  # True Negatives: Normal correctly predicted
+
+# Print confusion matrix and individual components
+print("Confusion Matrix:\n", cm)
+print(f"True Positives (TP): {TP}")
+print(f"False Negatives (FN): {FN}")
+print(f"False Positives (FP): {FP}")
+print(f"True Negatives (TN): {TN}")
+
 
 # Print the classification report
 print(classification_report(y_test, y_pred))

@@ -40,11 +40,16 @@ class SQLInjectionEnv:
 
     def check_bypass(self, query):
         """Check if the query passes the security check"""
+
         prediction = self.model.predict([query])[0]
-        return prediction == 0  # 0 indicates a normal query (bypass success)
+        return prediction
 
     def get_reward(self, query):
         """Return reward for a given query"""
+        if self.check_bypass(query):
+            reward = 1  # Successful bypass
+        else:
+            reward = -1  # Failed bypass
         reward = 1 if self.check_bypass(query) else -1
         if query not in self.unique_payloads:
             reward += 0.1  # Diversity bonus for unique payloads
