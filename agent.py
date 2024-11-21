@@ -1,17 +1,3 @@
-# #1. Agent Initialization: The agent is initialized with a set of actions and a Q-table to store learned values.
-# #2. Learning Parameters: Configured for exploration (to try new actions) and
-# #   learning rate (how quickly the agent updates its values).
-# #3. Action Selection: Balances between exploring random actions and exploiting the best known action,
-# #   depending on the agent’s configuration.
-# #4. State and Reward Management: Updates its Q-table based on received rewards and observed outcomes,
-# #   which helps it gradually improve its actions.
-# #5. Episode Control: Each episode runs until a termination condition (flag found or failure) or
-# #   until reaching the maximum steps.
-# #6. The agent learns by running multiple episodes, updating its Q-table with each action-response pair,
-# #   ultimately optimizing its ability to detect malicious or benign actions.
-
-
-# agent.py
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras import layers
@@ -113,6 +99,9 @@ class DQNAgent:
     def sample_batch(self, batch_size=32):
         return random.sample(self.replay_buffer, batch_size)
 
+    def normalize_rewards(self, rewards):
+        return (rewards - np.mean(rewards)) / (np.std(rewards) + 1e-5)
+
     def train(self, batch_size=32):
         if len(self.replay_buffer) < batch_size:
             return  # Not enough samples to train
@@ -126,7 +115,7 @@ class DQNAgent:
         states = np.array(states)
         next_states = np.array(next_states)
         actions = np.array(actions)
-        rewards = np.array(rewards)
+        rewards = self.normalize_rewards(np.array(rewards))  # Normalize rewards
         dones = np.array(dones)
 
         # Get target Q-values from target network
@@ -167,16 +156,7 @@ class Agent:
         epsilon_decay=0.995,
         min_epsilon=0.1,
     ):
-        """
-        Initialize the Agent with its set of actions and learning parameters.
 
-        :param actions: List of possible actions the agent can take.
-        :param alpha: Learning rate for Q-learning updates.
-        :param gamma: Discount factor for future rewards.
-        :param epsilon: Initial exploration rate.
-        :param epsilon_decay: Rate at which epsilon decays over episodes.
-        :param min_epsilon: Minimum exploration rate.
-        """
         self.actions = actions
         self.alpha = alpha  # Learning rate
         self.gamma = gamma  # Discount factor
@@ -186,21 +166,9 @@ class Agent:
         self.q_table = None  # Initialize Q-table as None
 
     def initialize_q_table(self, num_queries):
-        """
-        Initialize the Q-table with zeros. Assumes state space is discrete and represents
-        states by indices from 0 to num_queries - 1.
-
-        :param num_queries: The number of possible states (queries) the agent can encounter.
-        """
         self.q_table = np.zeros((num_queries, len(self.actions)))  # State x Actions
 
     def select_action(self, state):
-        """
-        Select an action based on the current Q-table and epsilon-greedy policy.
-
-        :param state: The current state, represented by an index.
-        :return: The selected action index.
-        """
         # Use epsilon-greedy approach: Explore or exploit
         if random.uniform(0, 1) < self.epsilon:
             return random.randint(
@@ -216,14 +184,7 @@ class Agent:
                 return random.randint(0, len(self.actions) - 1)
 
     def update_q_table(self, state, action, reward, next_state):
-        """
-        Update the Q-table based on the observed reward and next state.
 
-        :param state: Current state index.
-        :param action: Action taken.
-        :param reward: Observed reward after taking the action.
-        :param next_state: Next state index after the action.
-        """
         if self.q_table is not None:
             # Q-learning update rule
             best_future_value = (
@@ -234,17 +195,10 @@ class Agent:
             )
 
     def decay_epsilon(self):
-        """
-        Decay the exploration rate (epsilon) after each episode to favor exploitation over time.
-        """
+
         self.epsilon = max(self.min_epsilon, self.epsilon * self.epsilon_decay)
 
     def reset_epsilon(self, epsilon=None):
-        """
-        Reset epsilon to its original or a specified value, typically done between training phases.
-
-        :param epsilon: Optional parameter to set epsilon to a specific value.
-        """
         if epsilon is not None:
             self.epsilon = epsilon
         else:

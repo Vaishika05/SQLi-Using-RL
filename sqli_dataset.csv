@@ -31,6 +31,8 @@ insert,1
 " select * from users where id  =  1 or ""?#"" or 1  =  1 -- 1",1
 "or 1  =  1 or """"  =  ",1
 /**/or/**/1/**/  =  /**/1,1
+dfgaag,1
+hi,1
 " select * from users where id  =  1 or "".  (  "" or 1  =  1 -- 1",1
 " select * from users where id  =  '1' union select ||/1,version  (    )   -- 1'",1
 " select * from users where id  =  '1' union select +\.,@@VERSION -- 1'",1
@@ -11303,7 +11305,7 @@ lehar,0
 45699398p,0
 "calle profesor angel lacalle, s/n,",0
 tardn,0
-3.54937E+15,0
+3.55E+15,0
 14100,0
 rigby,0
 caada del hoyo,0
@@ -11327,10 +11329,10 @@ empuar,0
 0o380ado6,0
 montroy,0
 99997973e,0
-8.36404E+15,0
+8.36E+15,0
 "grupo fuensanta 197, 12?a",0
 jalance,0
-4.20136E+14,0
+4.20E+14,0
 "c/ ricardo gutierrez 26, 8-d",0
 ivancevi,0
 castil de vela,0
@@ -11341,7 +11343,7 @@ es2eri5o,0
 cuenca,0
 02054707w,0
 21184515c,0
-5.71439E+15,0
+5.71E+15,0
 41110,0
 marcano giner,0
 lemoine5@informatica2009.zr,0
@@ -11365,7 +11367,7 @@ madgett,0
 gerola pugliesi,0
 36574,0
 "c/ comedias, 109,",0
-8.61689E+15,0
+8.62E+15,0
 tanchak,0
 "don quijote 81,",0
 ceferina,0
@@ -11376,7 +11378,7 @@ lanfranchi@getgold.tl,0
 micaas,0
 herrmann@codwatw.edu,0
 9.48E+15,0
-5.83899E+15,0
+5.84E+15,0
 ajoy,0
 irissou,0
 quisto,0
@@ -11390,9 +11392,9 @@ hembrick,0
 darcy@google-movil.dz,0
 katia,0
 lenya@fbi-criminal-network.com.mil,0
-3.81894E+15,0
+3.82E+15,0
 penarroya ingla,0
-6.65741E+15,0
+6.66E+15,0
 "calle artigako haritza, s/n 8?d",0
 kiyohara,0
 iracema,0
@@ -11426,13 +11428,13 @@ estival,0
 "calle manco, 109, 10-g",0
 vinko,0
 parke antonio trueba 175,0
-8.5138E+15,0
+8.51E+15,0
 9.84E+15,0
 "calle la revoltosa, 55, 11c",0
 "calle hostieros, 24",0
 condensativo,0
 44706,0
-5.88977E+15,0
+5.89E+15,0
 poma gozalbo,0
 40592671v,0
 contreras,0
@@ -11449,7 +11451,7 @@ rub de bracamonte,0
 muthuswa,0
 d76en3r9n8z01,0
 "c/ padilla, 74 12h",0
-8.85119E+15,0
+8.85E+15,0
 salter@quiromante.com.mg,0
 es3regamiento,0
 aflechate,0
@@ -11503,7 +11505,7 @@ archie,0
 c/ coca de la piera 167,0
 oseja,0
 31410,0
-1.07544E+15,0
+1.08E+15,0
 36823414t,0
 ginest baquedano,0
 mallo etchart,0
@@ -11512,7 +11514,7 @@ serpiginoso,0
 "calle dinamarca 14,",0
 72523597c,0
 67242195q,0
-6.05128E+15,0
+6.05E+15,0
 aricel,0
 "c/ concepcion alexandre 82,",0
 v5llo34,0
@@ -11549,7 +11551,7 @@ radunsky_oses@guejosgratis.cg,0
 alfredo calderon 136,0
 hanzlice,0
 paucides,0
-6.03007E+15,0
+6.03E+15,0
 puigpunyent,0
 zangn,0
 chilln,0
@@ -11581,10 +11583,10 @@ niu,0
 eduviges,0
 42010181z,0
 minera dauns,0
-8.96125E+15,0
+8.96E+15,0
 arima@hormigon-impreso.nu,0
 aguinaga achutegui,0
-6.90524E+15,0
+6.91E+15,0
 bradney4,0
 shanir,0
 34855320q,0
@@ -11605,19 +11607,19 @@ d060u2ar,0
 brunton9,0
 sile,0
 8935,0
-4.5422E+15,0
-1.35689E+15,0
+4.54E+15,0
+1.36E+15,0
 azcrate campalan,0
 "calle juan sebastian elcano, 157 11?b",0
 heicy,0
 62,0
 massimil,0
 n89m3nd2,0
-6.69143E+14,0
+6.69E+14,0
 kindelan,0
 a79ga44,0
 49540097y,0
-2.75339E+15,0
+2.75E+15,0
 ibarra,0
 18898337l,0
 47gent1r,0
@@ -11645,7 +11647,7 @@ pesquisar,0
 subidor,0
 escudero ostria,0
 calle conde de cartagena 97 5f,0
-3.67249E+15,0
+3.67E+15,0
 3471,0
 "marines, los",0
 "senda buen paso s/n,",0
@@ -11666,7 +11668,7 @@ roni,0
 sertino,0
 "umbria, 143,",0
 veri5icat1va,0
-2.22584E+14,0
+2.23E+14,0
 mouchet@007tv.fj,0
 parolero,0
 polanco,0
@@ -11685,7 +11687,7 @@ gu5cima,0
 keng@glutenfreespain.lb,0
 69671861p,0
 doriot,0
-6.71861E+15,0
+6.72E+15,0
 gregonio,0
 38821598j,0
 katy,0
@@ -11695,21 +11697,21 @@ c63en13759,0
 29850288z,0
 cancela,0
 c/ grabador david roberts 154 1-h,0
-1.02549E+15,0
+1.03E+15,0
 37110,0
 de tena leguizamn,0
 5154,0
 eddisfor4,0
 4560,0
-4.92079E+15,0
+4.92E+15,0
 monvar/monver,0
 "pobla de segur 125,",0
 23670,0
-3.82074E+15,0
+3.82E+15,0
 15318,0
 8121,0
 41713468r,0
-3.18663E+15,0
+3.19E+15,0
 "san petersburgo, 165",0
 71648159p,0
 4176,0
@@ -11749,7 +11751,7 @@ baril,0
 35210254z,0
 teddie,0
 espaldilla,0
-1.06705E+14,0
+1.07E+14,0
 reiko,0
 portelan9,0
 50645313a,0
@@ -11786,7 +11788,7 @@ claudio,0
 mary-ann,0
 norberto,0
 caldes,0
-7.28065E+15,0
+7.28E+15,0
 42462633x,0
 557ni03r5o,0
 shakor,0
@@ -11805,12 +11807,12 @@ tornadizos de vila,0
 "calle santa teresa, 87 5?b",0
 incrdu69,0
 llombai,0
-8.00405E+14,0
+8.00E+14,0
 ulrico,0
 gatada,0
 linton,0
 gustat0v4,0
-6.27383E+15,0
+6.27E+15,0
 81,0
 huyente,0
 m9gnificen5i5,0
@@ -11819,7 +11821,7 @@ werkmeister@19horas.zr,0
 22120,0
 rabascall,0
 braiam,0
-8.99091E+15,0
+8.99E+15,0
 hofmeist0,0
 "calle duque de zaragoza s/n,",0
 "c/ san guillermo, 182",0
@@ -11829,12 +11831,12 @@ wilde@casasdefamosos.zw,0
 9903rti37,0
 bablica,0
 07485924e,0
-5.25502E+15,0
+5.26E+15,0
 encuar,0
 ramss,0
 6160,0
 0e06u8s17,0
-4.61733E+15,0
+4.62E+15,0
 mclawhor,0
 44338,0
 fabrelle,0
@@ -11843,8 +11845,8 @@ mayor,0
 28815,0
 pascuala,0
 malditamente,0
-4.47874E+15,0
-5.9555E+15,0
+4.48E+15,0
+5.96E+15,0
 spaeth@directoriogratuito.kr,0
 19784273h,0
 84881293t,0
@@ -11852,7 +11854,7 @@ spaeth@directoriogratuito.kr,0
 coxcojita,0
 mohandas,0
 cel65co,0
-3.21396E+15,0
+3.21E+15,0
 9805,0
 75131649x,0
 pierre-y,0
@@ -11877,14 +11879,14 @@ tali,0
 "camino san jaime 97,",0
 hoeflich@movil-google.cx,0
 silvita,0
-1.13313E+15,0
+1.13E+15,0
 02877417w,0
 "nardo, 12, 13e",0
 toddi,0
 8110,0
 raddalgo,0
 karlweiss@barnicesuv.gov,0
-8.2197E+15,0
+8.22E+15,0
 26527823z,0
 18449,0
 "c/ san miguel, 111 6?f",0
@@ -11893,7 +11895,7 @@ dollie,0
 castillejo de meslen,0
 torrescrcela,0
 travs elias,0
-3.07443E+15,0
+3.07E+15,0
 pagni7@freecreditcheck.bg,0
 noviercas,0
 opsito,0
@@ -11935,22 +11937,22 @@ villanueva de sigena,0
 7.05E+15,0
 "c/ pintor viver s/n, 1?b",0
 barceo,0
-2.45746E+15,0
+2.46E+15,0
 80216904b,0
 axman@culturalsanpedrocf.ie,0
-5.56439E+15,0
+5.56E+15,0
 rodo de la cerda,0
-8.35555E+15,0
+8.36E+15,0
 roco daira,0
 12480,0
-4.08791E+15,0
+4.09E+15,0
 pe7tr0b9,0
 breon@sexotelefono.mc,0
 maryrose,0
 tiru corominas,0
 alfonso.julissa@naturalchild.tk,0
 villanueva gualano,0
-5.07682E+15,0
+5.08E+15,0
 74132716j,0
 obscurantismo,0
 enang.ostar,0
@@ -11961,7 +11963,7 @@ buch als,0
 diezma,0
 birney-warbeck@lamejorplaya.gl,0
 detleff3,0
-6.5524E+15,0
+6.55E+15,0
 hoya-gonzalo,0
 lawlik@housemovie.lk,0
 pockett_miguelin@noviasteresapalacios.aw,0
@@ -11969,17 +11971,17 @@ demonlatra,0
 05636576n,0
 sugesto,0
 "jose gomez gallito, 107,",0
-6.24331E+15,0
+6.24E+15,0
 trincha-32r1,0
 5230,0
 bernette2,0
 bnrinfo,0
 9mbaicin,0
-1.53418E+15,0
+1.53E+15,0
 7ar82fa,0
 yeladaky janeiro,0
 9423,0
-2.1902E+15,0
+2.19E+15,0
 calle horreo 85 10?d,0
 thordsen@guejos.sy,0
 alfajarn,0
@@ -11999,7 +12001,7 @@ peine3@psychominders.gob,0
 kindermann@lawn.je,0
 mio de san esteban,0
 xerta,0
-4.1265E+15,0
+4.13E+15,0
 leonila,0
 boci+o,0
 apolonio,0
@@ -12012,7 +12014,7 @@ sevilla,0
 calle la salina 7 1?b,0
 xtiva,0
 andrease,0
-6.6591E+15,0
+6.66E+15,0
 maribeth4,0
 ci2586ta,0
 38728859x,0
@@ -12058,10 +12060,10 @@ cebuano,0
 8en7dill3,0
 "c/ barriada nueva andalucia, 79, 5?f",0
 neusy,0
-8.34964E+15,0
+8.35E+15,0
 stadler_munks@chevrolet-volt.at,0
 ransell,0
-5.58043E+15,0
+5.58E+15,0
 palacn aucapia,0
 monteys bold,0
 petree,0
@@ -12074,7 +12076,7 @@ rainmake,0
 lozier,0
 feutlins,0
 16926,0
-2.3E+15,0
+2.30E+15,0
 85766213h,0
 rustir,0
 barbads,0
@@ -12128,7 +12130,7 @@ whiteside.seyfferrtitz@cohel.uk,0
 c/ nicolas salmeron 73,0
 2ovi4in,0
 "campello, el",0
-1.91636E+15,0
+1.92E+15,0
 huaranga chicon,0
 valeika@italianmotorvillagesevilla.gd,0
 aleandro-hayman@tecnoindomo.nr,0
@@ -12163,10 +12165,10 @@ srdida.me3te,0
 22115972t,0
 dierkop@hayunmundoahifuera.id,0
 a6ordab07,0
-6.18738E+15,0
+6.19E+15,0
 c/ javea 57,0
 haddon@hiperbarcelona.tl,0
-3.19291E+15,0
+3.19E+15,0
 5192,0
 machar,0
 pl. heroes de espaa 20 11?g,0
@@ -12219,7 +12221,7 @@ santamarina,0
 "plza. salamanca 39,",0
 94lp90ulo,0
 adolfo,0
-5.17668E+15,0
+5.18E+15,0
 menelao,0
 00903443a,0
 lores bigas,0
@@ -12227,7 +12229,7 @@ nadav6,0
 "calle vizcaya, 101 10?f",0
 17621392b,0
 "royo, el",0
-1.20958E+14,0
+1.21E+14,0
 fickes,0
 reencarnar,0
 cabarrs zafn,0
@@ -12243,7 +12245,7 @@ lzaro,0
 satorras maynol,0
 santibez de ecla,0
 7751,0
-4.85943E+15,0
+4.86E+15,0
 9270,0
 31049,0
 flis@14horas.gt,0
@@ -12285,7 +12287,7 @@ car52lit7,0
 srinivas,0
 25g0a00,0
 86953454e,0
-7.09479E+15,0
+7.09E+15,0
 5urgui8a,0
 gupton,0
 cabot camaran,0
@@ -12308,7 +12310,7 @@ bakkum,0
 "alqueria de coca 38,",0
 9.12E+15,0
 duby@mtos.mt,0
-8.55461E+15,0
+8.55E+15,0
 "calle puruuela, 15 6?d",0
 granach@mccomptables.be,0
 "calle pinos los 128,",0
@@ -12363,7 +12365,7 @@ regir,0
 elois,0
 kalpak,0
 duesaiges,0
-6.64228E+14,0
+6.64E+14,0
 34170,0
 bielat,0
 abondadamente,0
@@ -12384,8 +12386,8 @@ vadim,0
 33418,0
 barcario,0
 88341714w,0
-3.4285E+15,0
-9.00454E+15,0
+3.43E+15,0
+9.00E+15,0
 33560,0
 corsini-vischer@viajesdacapalla.nl,0
 carlie,0
@@ -12394,9 +12396,9 @@ inciertamente,0
 ribamontn al mar,0
 "calle sant joan, 123,",0
 dulcera,0
-3.85057E+14,0
+3.85E+14,0
 32493489d,0
-3.89191E+15,0
+3.89E+15,0
 lakshmin,0
 kosanovic@discon.cg,0
 terrs triola,0
@@ -12412,7 +12414,7 @@ graciot ballv,0
 78695182s,0
 fany,0
 2651,0
-6.04089E+15,0
+6.04E+15,0
 5.22E+15,0
 cassasola nochez,0
 "calle kresaltxu 94, 3?b",0
@@ -12456,7 +12458,7 @@ pi,0
 39152269j,0
 velero@softwaresaas.ec,0
 barreras de la bandera,0
-4.78072E+15,0
+4.78E+15,0
 "c/ antonia lancha, 38, 1?h",0
 anatoly,0
 kin-yee,0
@@ -12474,7 +12476,7 @@ l655a2uta,0
 atl-sale,0
 leyton@intg.tk,0
 37711,0
-4.27735E+15,0
+4.28E+15,0
 20491,0
 "c/ las chumberas, 38,",0
 klaudt,0
@@ -12509,8 +12511,8 @@ armenteros,0
 aylmar6,0
 claudio iturrieta,0
 j0ctar,0
-5.44972E+15,0
-6.60819E+15,0
+5.45E+15,0
+6.61E+15,0
 newtell@theroxyblue.ir,0
 braham,0
 8547,0
@@ -12521,13 +12523,13 @@ maiga,0
 kawahara,0
 winde,0
 "luis de gongora, 189",0
-4.94812E+15,0
+4.95E+15,0
 59973244p,0
 benigni@viajesdacapalla.pa,0
 eggebraa,0
 "calle miguel lopez de legazpi, 48, 8f",0
 o.toole,0
-8.04948E+15,0
+8.05E+15,0
 lacey@bwds.mp,0
 gering,0
 chilches/xilxes,0
@@ -12546,14 +12548,14 @@ olivio,0
 bollullos de la mitacin,0
 kovacs,0
 toba,0
-2.78171E+15,0
+2.78E+15,0
 kiam,0
 45518730m,0
 harvison,0
 gaylor,0
 me93a,0
 el-hawar,0
-2.53246E+15,0
+2.53E+15,0
 masegosa,0
 herminia,0
 kiri,0
@@ -12562,7 +12564,7 @@ forfoleda,0
 cerpa oitavn,0
 moloney@imarbella.travel,0
 arajol lo cascio,0
-3.99279E+14,0
+3.99E+14,0
 adahuesca,0
 planthar,0
 walborn@19horas.cat,0
@@ -12604,7 +12606,7 @@ cos6rio,0
 venfica,0
 rist,0
 carmelo,0
-4.86024E+14,0
+4.86E+14,0
 beal,0
 imokoude@transportesvegasl.et,0
 63171354z,0
@@ -12654,7 +12656,7 @@ alconchel,0
 urea bernat,0
 pladeval berganciano,0
 albuminmetro,0
-1.52349E+15,0
+1.52E+15,0
 werling,0
 48c09a,0
 mauer,0
@@ -12676,7 +12678,7 @@ wilbur,0
 19140,0
 19185,0
 "c/ cardenal cisneros 70, 12?d",0
-4.42213E+15,0
+4.42E+15,0
 giertych,0
 34309,0
 37748,0
@@ -12688,7 +12690,7 @@ tharsis s/n 11?c,0
 "c/ hortensia 48,",0
 "cami son colam 153, 3-c",0
 humphrie,0
-5.25793E+15,0
+5.26E+15,0
 ajuagas,0
 ornella,0
 astor,0
@@ -12708,7 +12710,7 @@ reconfortante,0
 charlebois3@nanotecnologo.np,0
 castell sargatal,0
 pr99o9a9,0
-6.3087E+15,0
+6.31E+15,0
 sin,0
 "patio susi 120,",0
 boix machiavelli,0
@@ -12736,7 +12738,7 @@ $amarulencia,0
 racette,0
 38656027l,0
 ansorger,0
-5.38547E+15,0
+5.39E+15,0
 bizantina,0
 bryson2@casablancabeach.kp,0
 34260,0
@@ -12763,7 +12765,7 @@ donaldo,0
 asimismo,0
 63298862x,0
 46841,0
-2.47397E+15,0
+2.47E+15,0
 protectorio,0
 25182,0
 4916,0
@@ -12782,7 +12784,7 @@ rolleck@soybueno.mm,0
 "travesia uruguay, 172,",0
 van_eyk,0
 wooland@indagacion.td,0
-4.80152E+15,0
+4.80E+15,0
 hlinka,0
 aristin,0
 keung,0
@@ -12794,7 +12796,7 @@ harrold_elloy@santacruzdelvoto.ci,0
 de5peadura,0
 descerrajada,0
 1063,0
-1.61637E+15,0
+1.62E+15,0
 "c/ fuente del peral 41,",0
 54368029p,0
 filis,0
@@ -12827,20 +12829,20 @@ rini,0
 2el6s,0
 ben,0
 pettinge,0
-5.79858E+15,0
+5.80E+15,0
 42552726n,0
 47939000p,0
 thibaut,0
 3771,0
 rgiva,0
 trombn,0
-4.79638E+15,0
+4.80E+15,0
 50163,0
 parilli cresta,0
 "c/ salvatella, 98 11?h",0
 6922,0
 wailing@mariposasentudia.je,0
-7.71458E+15,0
+7.71E+15,0
 chuanhsi,0
 calle rafael bravo gomez 179 5?h,0
 elnore,0
@@ -12893,7 +12895,7 @@ ferrs gortrez,0
 34120,0
 derbyshi,0
 candelario,0
-7.73869E+15,0
+7.74E+15,0
 belonne santaella,0
 ren,0
 ardurn,0
@@ -12905,7 +12907,7 @@ sellees,0
 teruyuki,0
 metyn,0
 per8ebimie0to,0
-2.4082E+15,0
+2.41E+15,0
 sirola@professionalhost.cc,0
 17120,0
 3553,0
@@ -12921,7 +12923,7 @@ lahnstein agundis,0
 "portugal 87,",0
 soulef,0
 "carrer pompeu fabra, 151,",0
-8.62453E+15,0
+8.62E+15,0
 castellanos de moriscos,0
 remington,0
 arrazua-ubarrundia,0
@@ -12943,7 +12945,7 @@ cecil.wolcott7@librodeapuntes.sv,0
 macrura,0
 11ance3er,0
 whipp@esmeraldas.org.tm,0
-5.56878E+15,0
+5.57E+15,0
 47110,0
 25514,0
 dalenna,0
@@ -12959,10 +12961,10 @@ gail,0
 orion,0
 zapateo,0
 villalgordo del marquesado,0
-5.50989E+15,0
-5.4E+15,0
+5.51E+15,0
+5.40E+15,0
 puntallana,0
-3.11985E+15,0
+3.12E+15,0
 50136,0
 dao,0
 vilanova de segri,0
@@ -12984,12 +12986,12 @@ heile,0
 "escritor nicolas del paso, 95",0
 19243,0
 25471,0
-8.0957E+15,0
-7.17889E+15,0
+8.10E+15,0
+7.18E+15,0
 42141,0
 flo3a,0
 fernn caballero,0
-6.44911E+15,0
+6.45E+15,0
 rutledge,0
 milani4@beautifulbody.sh,0
 1438,0
@@ -13042,7 +13044,7 @@ vargas bentos,0
 bakey_noah@inmobiliariahangar.ki,0
 sotobaado y priorato,0
 h46a00o,0
-3.24545E+15,0
+3.25E+15,0
 ginette,0
 48483117z,0
 amedee@spainbb.cc,0
@@ -13066,7 +13068,7 @@ bayliss,0
 33971,0
 barcones,0
 89c3via,0
-2.94331E+14,0
+2.94E+14,0
 nuez de balboa 131 2-f,0
 59bi8ari7o,0
 8016,0
@@ -13077,8 +13079,8 @@ pilocarpina,0
 diffring9@discon.cv,0
 zemanek,0
 entrala,0
-7.81237E+15,0
-6.80379E+15,0
+7.81E+15,0
+6.80E+15,0
 3390,0
 charlot@ringringrent.rw,0
 yamasaki@multaspendientes.eg,0
@@ -13089,15 +13091,15 @@ piggott@firstchoicecoffee.gq,0
 confirmar,0
 shangtia,0
 mucientes,0
-2.88508E+14,0
-6.4255E+15,0
+2.89E+14,0
+6.43E+15,0
 15008,0
 gater9,0
 "reinosa 98, 13-e",0
 1103,0
 arcediano,0
 arroldo,0
-8.60573E+15,0
+8.61E+15,0
 pangborne@europop.mw,0
 6015,0
 horcajo de montemayor,0
@@ -13138,7 +13140,7 @@ alpar-ornstein@rockefeller.nu,0
 reiner,0
 8.72E+15,0
 knio,0
-6.71271E+14,0
+6.71E+14,0
 savitsky@tetdevelocidad.sj,0
 3023,0
 2595,0
@@ -13173,18 +13175,18 @@ calle eduard toldra 137 5?a,0
 "calle santa pola, 7",0
 tridente,0
 9.55E+15,0
-6.4671E+15,0
+6.47E+15,0
 65236882g,0
 sant vicen de torell,0
 maragliano serna,0
 gayol,0
 413f1go,0
 thirugna,0
-4.67612E+15,0
+4.68E+15,0
 34473,0
 "calle cosidores, s/n,",0
 clav6ria,0
-6.44187E+14,0
+6.44E+14,0
 turro,0
 "urbanitzacio las lomas, 18, 4a",0
 "calle ponte vella s/n, 13e",0
@@ -13201,7 +13203,7 @@ vilalba sasserra,0
 senen,0
 sylvia,0
 calle petunias 34 1-e,0
-2.77767E+15,0
+2.78E+15,0
 angeles jarama,0
 edlene,0
 almansa ingls,0
@@ -13209,7 +13211,7 @@ jaworsky,0
 lug5r,0
 yessica,0
 13791863m,0
-5.49426E+15,0
+5.49E+15,0
 7964,0
 cecchini_polonsky@iurispretor.info,0
 ptok@aou.com.th,0
@@ -13218,13 +13220,13 @@ escenogrfica,0
 debicki@prestoesesto.hr,0
 pari073l,0
 10,0
-5.97528E+15,0
+5.98E+15,0
 almendros,0
-3.37557E+15,0
+3.38E+15,0
 33001,0
 "robert graves, 101",0
-5.04811E+15,0
-8.88987E+15,0
+5.05E+15,0
+8.89E+15,0
 descrieres@enibiza.com.ac,0
 mbrose,0
 biosca,0
@@ -13257,21 +13259,21 @@ waring,0
 verney,0
 mcduffie,0
 revivificar,0
-8.32244E+15,0
+8.32E+15,0
 scott,0
 m601c1te,0
 22997473a,0
 santa cruz del comercio,0
 donhierro,0
 besnehard8@itrends.tn,0
-3.82381E+15,0
+3.82E+15,0
 skolnik-daye@joll.ws,0
 digenova,0
 35591968c,0
 shedd,0
 castellgal,0
 6014,0
-4.27965E+15,0
+4.28E+15,0
 8e35o502da7,0
 muopedro,0
 e0u08os1,0
@@ -13288,11 +13290,11 @@ arme!lluela,0
 0m24gu1l39,0
 4.28E+15,0
 19665853w,0
-7.13887E+14,0
+7.14E+14,0
 35garab980a,0
 septingentsima,0
 iza,0
-5.74629E+15,0
+5.75E+15,0
 ca10a5uda,0
 hole@chicashumedas.at,0
 47239,0
@@ -13308,7 +13310,7 @@ naguib,0
 salerno.harmer@nexuspark.li,0
 chinarro,0
 reencar!nacin,0
-7.63602E+15,0
+7.64E+15,0
 0a3ramplar,0
 m+ar8ca4,0
 baily,0
@@ -13331,7 +13333,7 @@ manda,0
 merriell,0
 duchement tenza,0
 brias,0
-2.38947E+15,0
+2.39E+15,0
 777t1c4rio,0
 39515,0
 furet@sanchezquesada.lc,0
@@ -13376,7 +13378,7 @@ santibez de bjar,0
 v70t4oso,0
 berber,0
 otao suaso,0
-5.01063E+15,0
+5.01E+15,0
 4.03E+15,0
 revestimiento,0
 brightwe,0
@@ -13395,7 +13397,7 @@ lema cuartero,0
 66837882c,0
 alcolea,0
 p44m8scu6916n,0
-3.00245E+15,0
+3.00E+15,0
 scardetta huerta,0
 t0na5t44la,0
 vislumbrar,0
@@ -13405,9 +13407,9 @@ bilal,0
 mong-tse,0
 37257,0
 8759,0
-8.08498E+15,0
+8.08E+15,0
 "font d'en canyelles 21, 1-b",0
-5.11164E+15,0
+5.11E+15,0
 7219,0
 jerusaln,0
 8011,0
@@ -13447,7 +13449,7 @@ ranez@sandrasummer.bi,0
 8708,0
 bello.sandor@hipergipuzkoa.to,0
 "alcalde baeza medina, s/n,",0
-6.14206E+15,0
+6.14E+15,0
 isolina,0
 3902,0
 6390,0
@@ -13479,12 +13481,12 @@ almacelles,0
 escuder liveris,0
 98585223r,0
 balcells parets,0
-4.43607E+15,0
+4.44E+15,0
 kangelis,0
 de las muecas pedrol,0
 promanar,0
-8.366E+15,0
-3.62829E+15,0
+8.37E+15,0
+3.63E+15,0
 nieva de cameros,0
 02879028a,0
 polop,0
@@ -13517,7 +13519,7 @@ noel,0
 49830,0
 "passatge badal, 31,",0
 9.71E+15,0
-5.69342E+15,0
+5.69E+15,0
 57978068j,0
 terraje,0
 s4dsudeste,0
@@ -13532,9 +13534,9 @@ gamal,0
 refriega,0
 ull colmenares,0
 nona,0
-4.16237E+15,0
+4.16E+15,0
 5672,0
-1.99281E+15,0
+1.99E+15,0
 lladorre,0
 freixes navaln,0
 kwokchoi,0
@@ -13598,7 +13600,7 @@ encad7622i6,0
 "c/ rua mayor, 31, 1?e",0
 corota,0
 67663365x,0
-8.18595E+15,0
+8.19E+15,0
 "cantallops, 138,",0
 06327548h,0
 galende,0
@@ -13606,7 +13608,7 @@ a7av5nc6,0
 sigut,0
 lorraine,0
 vega del codorno,0
-7.79828E+15,0
+7.80E+15,0
 di rado elejalde,0
 benegiles,0
 enrique,0
@@ -13659,7 +13661,7 @@ almonacid de la sierra,0
 weintraub,0
 23550240b,0
 99eja36r9a,0
-7.6744E+15,0
+7.67E+15,0
 37ce,0
 rub,0
 benabarre,0
@@ -13689,7 +13691,7 @@ ciezar,0
 parke konstituzio 128 2?b,0
 valverde de la virgen,0
 "calle costa brava, 148,",0
-6.18286E+15,0
+6.18E+15,0
 flavio,0
 nelba,0
 iftekhar,0
@@ -13703,7 +13705,7 @@ c/ atlantico 167,0
 enris6rar,0
 10410049l,0
 "calle del mistral, 65",0
-6.1136E+15,0
+6.11E+15,0
 rebengivc@somosagelespaa.ie,0
 franchetti.martinsan@elsentidodelavida.qa,0
 bora,0
@@ -13752,14 +13754,14 @@ brando@elsentidodelavida.lc,0
 45681,0
 coch soto,0
 ges,0
-1.8E+15,0
+1.80E+15,0
 "guardia, la",0
 9869,0
 03nte99era,0
 16c64si30,0
 discoro,0
 dirck,0
-5.35994E+15,0
+5.36E+15,0
 tilden.auerbach4@cochesautomaticos.ru,0
 "c/ iglesia, s/n 11?f",0
 cholgua,0
@@ -13770,7 +13772,7 @@ argujillo,0
 83360974g,0
 89388462c,0
 0esino1o,0
-2.55791E+15,0
+2.56E+15,0
 ojinaga bascn,0
 falerno,0
 mendavia,0
@@ -13805,7 +13807,7 @@ agujer4e2o,0
 santa eullia de ronana,0
 "tebete, s/n, 8?d",0
 zarra,0
-7.84027E+15,0
+7.84E+15,0
 rinaldi albiol,0
 44392621e,0
 robledollano,0
@@ -13822,14 +13824,14 @@ braa,0
 a8ique0r4r,0
 gumersindo,0
 42093532j,0
-2.75401E+15,0
-3.60204E+15,0
+2.75E+15,0
+3.60E+15,0
 19133,0
 trespalacios latorre,0
 vaquer gorigoitia,0
 goble,0
 "quevedo y quintana s/n, 4-h",0
-5.5584E+15,0
+5.56E+15,0
 williams9,0
 das,0
 en9r195d9,0
@@ -13899,7 +13901,7 @@ alfeo,0
 5719,0
 17493,0
 antirreglamentaria,0
-2.4571E+15,0
+2.46E+15,0
 39672063f,0
 a3ui11d,0
 "calle pea 49, 9?b",0
@@ -13912,13 +13914,13 @@ dennis,0
 suspen3edo7,0
 godall,0
 abia de la obispala,0
-7.46688E+15,0
+7.47E+15,0
 mendiz espn,0
 4430,0
 3015,0
 69557398q,0
-8.02525E+15,0
-7.67474E+13,0
+8.03E+15,0
+7.67E+13,0
 ribadumia,0
 64446970g,0
 46881104c,0
@@ -13927,7 +13929,7 @@ ribadumia,0
 19224,0
 4725,0
 avellano,0
-7.91264E+15,0
+7.91E+15,0
 hervs,0
 10700,0
 gema,0
@@ -13935,12 +13937,12 @@ brayam,0
 torre-cardela,0
 62258107m,0
 "plaa del mercat, 198 7-c",0
-8.04302E+15,0
+8.04E+15,0
 domingo,0
 09069193v,0
 "rua picouto, 14,",0
-1.19007E+15,0
-8.2886E+15,0
+1.19E+15,0
+8.29E+15,0
 alvarez 35,0
 8695,0
 31519125v,0
@@ -13957,7 +13959,7 @@ bettine,0
 culubret lluss,0
 watanabe,0
 globula*riceo,0
-3.19537E+15,0
+3.20E+15,0
 a2152,0
 munbrega,0
 03046730n,0
@@ -13978,7 +13980,7 @@ bendex@xavipetit.it,0
 kimbroug,0
 28011073v,0
 c26ve7sar,0
-5.04489E+15,0
+5.04E+15,0
 charpini_daillie@inmobiliariahangar.ly,0
 painter.stovin@tetdevelocidad.bn,0
 8466,0
@@ -13986,9 +13988,9 @@ sim5e469,0
 trevetha,0
 38980059g,0
 mango_rizzo1@premiostv.ky,0
-3.61806E+15,0
+3.62E+15,0
 particular teresa orozco 101,0
-2.24329E+15,0
+2.24E+15,0
 "av. don juan de borbon, s/n",0
 522lta,0
 "calle nueva de arriba, 111 9g",0
@@ -14000,9 +14002,9 @@ lani,0
 muro de aguas,0
 mocej*n,0
 l1am217r5,0
-7.51221E+15,0
+7.51E+15,0
 98538229l,0
-3.12801E+15,0
+3.13E+15,0
 "fundidores, 179,",0
 07375030b,0
 46724,0
@@ -14012,14 +14014,14 @@ terl6z,0
 ayate,0
 5140,0
 81338514a,0
-3.14114E+15,0
+3.14E+15,0
 gregescos,0
 39960501w,0
 8.16E+15,0
-2.14581E+15,0
+2.15E+15,0
 1056,0
 60781516z,0
-3.24363E+15,0
+3.24E+15,0
 37188,0
 calabazas de fuentiduea,0
 8020,0
@@ -14044,7 +14046,7 @@ victorico,0
 "c/ poetisa juana luna 135, 5-g",0
 "castillo de malpica 119,",0
 plouffe4,0
-3.78104E+15,0
+3.78E+15,0
 9.19E+15,0
 2.80E+15,0
 "passeig picasso, 23,",0
@@ -14084,12 +14086,12 @@ scheifel2,0
 keaton3,0
 46177,0
 5659,0
-4.88546E+14,0
+4.89E+14,0
 arvizu tirapu,0
 "plaza cinco villas, 103,",0
 24249,0
 92621448b,0
-3.62194E+15,0
+3.62E+15,0
 trebaol@arroyomolinos-madrid.gq,0
 cantabria,0
 5788,0
@@ -14103,10 +14105,10 @@ v433g3o5i6r79,0
 ganoza,0
 sosao,0
 torreblacos,0
-1.28145E+15,0
+1.28E+15,0
 "calle vereda del carmen, 160 11-e",0
 hus24lero,0
-3.89386E+15,0
+3.89E+15,0
 p05f74a.r,0
 gelber serarols,0
 adjani@zoorapia.ma,0
@@ -14143,8 +14145,8 @@ fest lairigoyen,0
 "catalanes, 137, 3?a",0
 nao,0
 esbarar,0
-1.3059E+15,0
-6.03487E+15,0
+1.31E+15,0
+6.03E+15,0
 6477,0
 antulio,0
 jndula couttolenc,0
@@ -14175,13 +14177,13 @@ sant carles de la rpita,0
 mcnear.trotta@lettere.ve,0
 9.37E+15,0
 tacoronte,0
-6.59091E+15,0
+6.59E+15,0
 valentianiano,0
 olaughlin@pinkplanetplasencia.uy,0
 zanobia,0
 78581094f,0
 "pl. ingeniero torres quevedo, s/n 7?a",0
-2.61077E+15,0
+2.61E+15,0
 9.54E+15,0
 sookdeo,0
 albiol,0
@@ -14190,14 +14192,14 @@ ag-uzadura,0
 combee,0
 barnechea,0
 "pl. san anton, 102",0
-1.92739E+15,0
+1.93E+15,0
 9041,0
 "c/ santa olaja, 121 2?d",0
-9.08272E+14,0
-7.38537E+15,0
+9.08E+14,0
+7.39E+15,0
 93254282t,0
 maracaja@telogis.ad,0
-2.51064E+15,0
+2.51E+15,0
 24410,0
 tejo,0
 19310,0
@@ -14206,13 +14208,13 @@ albatana,0
 entrepalmadura,0
 revill5,0
 18210,0
-1.20453E+15,0
+1.20E+15,0
 lafayette@vitalhome.hk,0
 asturias,0
 42836631m,0
 orea,0
 vilaller,0
-7.33372E+15,0
+7.33E+15,0
 5953,0
 gunderso,0
 akashi1@g-audio.td,0
@@ -14225,7 +14227,7 @@ depravador,0
 81e9604o6o,0
 02056001p,0
 fulgencia,0
-7.20299E+15,0
+7.20E+15,0
 pradeep,0
 "plza. santa marina, s/n, 12?h",0
 carrer puigmercadal 33 5h,0
@@ -14242,7 +14244,7 @@ inofensiva,0
 cot reixach,0
 corcoy augu,0
 6u33a,0
-5.88554E+15,0
+5.89E+15,0
 sabety,0
 longhurst-street1@drae2.pa,0
 inconse_cuente,0
@@ -14268,25 +14270,25 @@ sanabria,0
 agramontesa,0
 "calle sergio luna, s/n 11g",0
 "c/ gaspar reyes, 172 8?f",0
-9.11358E+14,0
+9.11E+14,0
 cartaa,0
 porter,0
 getulio,0
 lonnie,0
 03621656f,0
-5.82525E+15,0
+5.83E+15,0
 fernald,0
-1.57143E+15,0
+1.57E+15,0
 mortensen@look2fly.nr,0
 atiy,0
 86943454g,0
 dasya4,0
 duthie,0
-5.27381E+14,0
+5.27E+14,0
 pacn,0
 mirambell donet,0
 i2cit6d4r,0
-4.62514E+14,0
+4.63E+14,0
 ruano barril,0
 arqu rocas,0
 25270,0
@@ -14315,7 +14317,7 @@ lloyd-pack-partain@elalamorestaurante.ir,0
 ji-chuu,0
 laruffa,0
 frison@barnizultravioleta.jm,0
-4.35874E+15,0
+4.36E+15,0
 limburg@estoespresto.cd,0
 sorts bransuel,0
 5632,0
@@ -14326,7 +14328,7 @@ lengua barrios,0
 decuplar,0
 "alcatraz, 43, 2-g",0
 sal37a,0
-5.91692E+15,0
+5.92E+15,0
 burgoa planells,0
 77232447b,0
 mccollum,0
@@ -14342,7 +14344,7 @@ dana,0
 ostyn.martan@icodea.lu,0
 bradshaw.ocallaghan@almascanarias.do,0
 5215,0
-3.65591E+15,0
+3.66E+15,0
 analfabetismo,0
 camisoln,0
 kostka5@institutoandaluzdelmar.an,0
@@ -14351,7 +14353,7 @@ recordar,0
 zelda_hjelm5@silver-knights.it,0
 14188360m,0
 70243797a,0
-7.14471E+15,0
+7.14E+15,0
 i77ovar,0
 5.66E+15,0
 50200,0
@@ -14372,7 +14374,7 @@ ac6di9o,0
 tabakov@wdsl.ly,0
 $despumar,0
 48di48l92,0
-6.1724E+15,0
+6.17E+15,0
 verschuer_greenleaf@cajucar.cx,0
 doce de novembro 165,0
 cedric,0
@@ -14397,12 +14399,12 @@ chirlern,0
 buenda,0
 rayner,0
 23522946h,0
-2.27852E+15,0
+2.28E+15,0
 ellston balladares,0
 sant pere de ribes,0
 estiradamente,0
 18670,0
-6.20415E+15,0
+6.20E+15,0
 "calle calderon de la barca, 141",0
 girona,0
 flor chino,0
@@ -14416,7 +14418,7 @@ patterso,0
 2417,0
 medey,0
 espuna angullo,0
-7.92638E+15,0
+7.93E+15,0
 "caada de los ingleses, 117,",0
 trigueros del valle,0
 danis,0
@@ -14434,16 +14436,16 @@ ordinar,0
 indiestro,0
 cambulln,0
 delito,0
-7.75898E+15,0
+7.76E+15,0
 51517640d,0
 "plaa doctor robert, 127",0
 1820,0
 brgmann saura,0
 hoyo higueron 32 3-f,0
-1.20613E+15,0
+1.21E+15,0
 "c/ juan luis peralta, 49 13-f",0
-2.79749E+15,0
-5.05975E+14,0
+2.80E+15,0
+5.06E+14,0
 vicens,0
 48042322z,0
 "c/ curadero, 101, 12?e",0
@@ -14463,7 +14465,7 @@ deba,0
 "cuerlas, las",0
 calle benifallim 97 10?e,0
 alienacin,0
-3.22773E+15,0
+3.23E+15,0
 "c/ huescar 60,",0
 12785855v,0
 37541,0
@@ -14480,16 +14482,16 @@ tristan,0
 jesusa,0
 uhlhorn,0
 9.47E+15,0
-4.94547E+15,0
+4.95E+15,0
 rebalg1r,0
 algu chavarri,0
-6.2103E+15,0
+6.21E+15,0
 bordagorry,0
-6.49002E+15,0
+6.49E+15,0
 silvie,0
 372,0
 hasan,0
-2.03614E+14,0
+2.04E+14,0
 llinars del valls,0
 23710,0
 "glorieta puerta de hierro, 57",0
@@ -14508,7 +14510,7 @@ jiinshuh,0
 servitje areggiani,0
 pastukhov@pecher.iq,0
 cnico,0
-7.93075E+15,0
+7.93E+15,0
 nagaraja,0
 83236273d,0
 escritor lopez de cardenas 76 12e,0
@@ -14521,7 +14523,7 @@ cooperma,0
 barriga requena,0
 "avenida espaa, 14, 1f",0
 5856,0
-4.07378E+15,0
+4.07E+15,0
 encrasar,0
 "alqueria de pixarroda, 27",0
 pblica,0
@@ -14531,7 +14533,7 @@ pblica,0
 "c/ cardenal cisneros 58,",0
 aguzadera,0
 h?ele77,0
-6.31786E+15,0
+6.32E+15,0
 judas,0
 enaciado,0
 7e2hered0962n,0
@@ -14548,8 +14550,8 @@ fresia,0
 2.82E+15,0
 "plaza pont 47, 6?e",0
 teo,0
-5.77329E+15,0
-8.54124E+15,0
+5.77E+15,0
+8.54E+15,0
 28221877a,0
 "calle espio, 120, 11?a",0
 48551498q,0
@@ -14561,7 +14563,7 @@ nab,0
 aventajada,0
 valverde de valdelacasa,0
 tiedeman,0
-1.00217E+15,0
+1.00E+15,0
 lorber-albasiny@cortinasartesol.pa,0
 16300,0
 braschi_courtneidge@djbroadcast.an,0
@@ -14585,7 +14587,7 @@ newport,0
 hammong4@asyra.st,0
 huesca,0
 1.94E+15,0
-3.58067E+15,0
+3.58E+15,0
 26141,0
 4574,0
 almarza de cameros,0
@@ -14593,7 +14595,7 @@ almarza de cameros,0
 "pl. quintero baez, 137",0
 5348,0
 kangning,0
-6.79504E+13,0
+6.80E+13,0
 amalio,0
 tesisteco avi,0
 meredith,0
@@ -14601,12 +14603,12 @@ meredith,0
 "c/ cardenal rossell, 85,",0
 82768054r,0
 brewton,0
-4.46161E+14,0
+4.46E+14,0
 buchel-alymer@gemas.org.bu,0
-5.26636E+15,0
+5.27E+15,0
 eddier,0
 crcova valentini,0
-9.3269E+14,0
+9.33E+14,0
 huertas acosa,0
 vencilln,0
 blotta azagra,0
@@ -14619,7 +14621,7 @@ pilapil@espaciopintor.my,0
 4364,0
 sonsoles,0
 62386870z,0
-7.77188E+15,0
+7.77E+15,0
 sorbello8@carrillo-de-albornoz.jobs,0
 82452687x,0
 escultor damian forment 128 11?g,0
@@ -14630,8 +14632,8 @@ garantir,0
 senterada,0
 42127,0
 66702102d,0
-3.32981E+15,0
-8.67859E+15,0
+3.33E+15,0
+8.68E+15,0
 plza. felix rodriguez de la fuente 140 3a,0
 7250,0
 17154,0
@@ -14645,7 +14647,7 @@ teodosio,0
 lopiano,0
 cecile,0
 "calle gardenia, 35",0
-7.28211E+15,0
+7.28E+15,0
 kaneko,0
 padiernos,0
 vartan,0
@@ -14664,7 +14666,7 @@ regidor fa,0
 albercoque,0
 darbie,0
 antone1@tiendasyofertas.ve,0
-5.62626E+14,0
+5.63E+14,0
 6721,0
 tierra 17,0
 mndez testua,0
@@ -14724,7 +14726,7 @@ rec,0
 mendracaveitia torreyas,0
 mccauley@autobuses-hibridos.ph,0
 totino,0
-4.80991E+15,0
+4.81E+15,0
 53424203x,0
 19223,0
 "calle miquel santandreu 66,",0
@@ -14740,7 +14742,7 @@ gargajienta,0
 "calle maria marin, 196,",0
 "pobla tornesa, la",0
 sparksma,0
-8.58629E+14,0
+8.59E+14,0
 ana,0
 16417,0
 basilia,0
@@ -14753,20 +14755,20 @@ oblong0,0
 thomasin,0
 nicforo,0
 bjorn,0
-6.14046E+15,0
+6.14E+15,0
 patacki,0
 2095,0
 blanquer,0
 6572,0
 meggy,0
 zahnley,0
-6.29894E+15,0
+6.30E+15,0
 almazn cayul,0
 ammiel,0
 burns-gerron@100mbps.ht,0
 42156,0
 pl. herrera de los navarros 68 12-h,0
-9.36496E+14,0
+9.36E+14,0
 "garrotxa, 118",0
 campoo de yuso,0
 27268,0
@@ -14785,7 +14787,7 @@ niemyska@inversioneolica.lt,0
 4451,0
 busqu,0
 "c/ cervera 164, 1e",0
-8.09757E+15,0
+8.10E+15,0
 amodeo sidany,0
 33744160d,0
 nadir,0
@@ -14795,7 +14797,7 @@ vin,0
 48825670m,0
 isurieta llano,0
 biota,0
-2.72034E+15,0
+2.72E+15,0
 jorge paquirachi,0
 ech5d7,0
 regueras de arriba,0
@@ -14803,7 +14805,7 @@ regueras de arriba,0
 22880,0
 5122,0
 chismear,0
-8.9713E+15,0
+8.97E+15,0
 32425777d,0
 ca1t01i4oso,0
 "c/ fuente pista de tenis, 164",0
@@ -14846,12 +14848,12 @@ bevis,0
 corcoll duhalde,0
 chua@comerciosdeaspe.om,0
 moll@eurograb.ic,0
-8.81212E+15,0
+8.81E+15,0
 18179,0
 9.33E+15,0
-5.95639E+15,0
+5.96E+15,0
 burgs campa,0
-7.28868E+15,0
+7.29E+15,0
 brooking-doolittle@encuentrodominios.lv,0
 cervera de la caada,0
 wenner@rpdkorea.nr,0
@@ -14879,7 +14881,7 @@ mcbrayne,0
 "c/ veinat de cerdanyola, 3 6e",0
 de la cerda gassol,0
 poblacin de arroyo,0
-1.94093E+15,0
+1.94E+15,0
 escocia 197,0
 jara escobedo,0
 19119,0
@@ -14889,7 +14891,7 @@ vital,0
 vizcaya,0
 bartlett@waterflyesp.eh,0
 danisa,0
-7.87131E+15,0
+7.87E+15,0
 4ntra6a,0
 15495714q,0
 forsyne@velaconsultores.mx,0
@@ -14916,7 +14918,7 @@ lacasse,0
 "glorieta valle de oro, 9 10a",0
 walberg@ytv.com.gn,0
 alhama de granada,0
-6.8623E+15,0
+6.86E+15,0
 4742,0
 shan-min,0
 resquebrar,0
@@ -14936,9 +14938,9 @@ lazure,0
 1875,0
 69346006v,0
 carmia,0
-2.12404E+14,0
+2.12E+14,0
 "calle juan sitges 24,",0
-1.71456E+15,0
+1.71E+15,0
 cherwin4@xavipetit.mu,0
 kaufherr.gargoet@santacruzdelvoto.sh,0
 stiven,0
@@ -14989,11 +14991,11 @@ reich.puffy@g-audi.pe,0
 ambiental,0
 evarist arnus 5 11-d,0
 lecompte,0
-4.23384E+15,0
+4.23E+15,0
 kamber@weat.gd,0
 18347,0
 "c/ zilbetiko monasterioaren, s/n,",0
-5.79616E+15,0
+5.80E+15,0
 calle villalon 13 1g,0
 cabral_crowther@frioelectric.br,0
 monzon pinart,0
@@ -15008,12 +15010,12 @@ cortegana,0
 mertin lombana,0
 rosi10,0
 "ruiz de alda, 78",0
-3.20326E+15,0
+3.20E+15,0
 o1e6e2d6,0
 blancafort,0
 deltell riberas,0
 22468230j,0
-3.58192E+15,0
+3.58E+15,0
 lubna,0
 jurez,0
 lavat@ajuntamentbarcelona20.gy,0
@@ -15039,19 +15041,19 @@ chlud_kumvongse@encuentrodominios.sd,0
 ortuella,0
 3.35E+15,0
 virge,0
-3.16361E+15,0
+3.16E+15,0
 weinberger@privatebanking.com.nz,0
 broquel,0
 62145911a,0
 guntekin,0
 06434691g,0
 rahmani,0
-2.84001E+15,0
+2.84E+15,0
 weld@yiutuve.vc,0
 teuian_balbo@manuelpaloma.ky,0
 larreynaga arce,0
-8.49643E+15,0
-8.04589E+15,0
+8.50E+15,0
+8.05E+15,0
 siku@tartasconamor.in,0
 h9erc5,0
 artigas girut,0
@@ -15064,7 +15066,7 @@ ligurs,0
 10817,0
 juventino,0
 "pasaje maria merida s/n, 4?h",0
-7.77111E+15,0
+7.77E+15,0
 "calle padre payan 127,",0
 7ngr5ta3ente,0
 49718,0
@@ -15107,7 +15109,7 @@ registro,0
 c/ cristobal quintero 86,0
 suchet@ciaplast.tel,0
 matungo,0
-3.55661E+15,0
+3.56E+15,0
 "calle florian de ocampo 114, 7?h",0
 donadieu zanotti,0
 iris,0
@@ -15122,7 +15124,7 @@ gherardo,0
 ribera d'ondara,0
 5537,0
 besal,0
-6.73367E+15,0
+6.73E+15,0
 aran1el1ria,0
 obed9e3cia0,0
 rains8,0
@@ -15140,7 +15142,7 @@ blakley@asyra.ao,0
 2246,0
 1pa5364e3a,0
 ab_ogadora,0
-8.83352E+15,0
+8.83E+15,0
 10459,0
 macoosh3,0
 bertra canamasa,0
@@ -15155,7 +15157,7 @@ conciliador,0
 junmeng,0
 byoung,0
 velov@expozaragozafloral2014.ac,0
-6.25668E+15,0
+6.26E+15,0
 "c/ codigo correspondencia oficial correos-telegrafos 71, 10d",0
 palera,0
 baumgarten bagudanc,0
@@ -15181,13 +15183,13 @@ ezio,0
 21388,0
 falicov,0
 74,0
-3.79218E+15,0
+3.79E+15,0
 kokosopo,0
 47965007w,0
 salustio,0
 22587,0
 dobbing3,0
-1.99057E+15,0
+1.99E+15,0
 "pasaje lucero 147,",0
 50269,0
 perene,0
@@ -15196,9 +15198,9 @@ vazkn,0
 4631,0
 torrecilla del monte,0
 18708,0
-2.96618E+15,0
+2.97E+15,0
 ingelber,0
-3.86932E+15,0
+3.87E+15,0
 gunther@nik.com.tn,0
 9334,0
 alcalde gregorio espino 165,0
@@ -15232,7 +15234,7 @@ emesh,0
 kelcy,0
 bertorelli,0
 9.97E+15,0
-8.87551E+14,0
+8.88E+14,0
 9849,0
 t45o0a35,0
 7znallo,0
@@ -15259,7 +15261,7 @@ molledo basagaa,0
 gomska.hopper@ebuy.com.bi,0
 cuz,0
 tyler,0
-7.84149E+15,0
+7.84E+15,0
 17240,0
 39100,0
 fontanal callarisa,0
@@ -15274,7 +15276,7 @@ at89a7218,0
 "callejon giron 124,",0
 nolen@enmenorca.com.th,0
 budd9,0
-7.40029E+15,0
+7.40E+15,0
 trobos 39 4e,0
 goring@quadernideilgarda.pl,0
 28782647x,0
@@ -15282,12 +15284,12 @@ valdeganga,0
 econmicamente,0
 7576,0
 bancalero,0
-4.47673E+15,0
+4.48E+15,0
 11615910j,0
 a4go37a,0
 manducatoria,0
 86a7o,0
-7.20777E+15,0
+7.21E+15,0
 23734,0
 "aldea de san nicols, la",0
 fuente el olmo de scar,0
@@ -15295,7 +15297,7 @@ fuente el olmo de scar,0
 idt,0
 matie,0
 chaurett,0
-1.52494E+15,0
+1.52E+15,0
 1.97E+15,0
 49440,0
 6091,0
@@ -15303,9 +15305,9 @@ alcoholado sabaters,0
 5a09la,0
 juneho,0
 "purpurania, 79 3?b",0
-3.09015E+15,0
+3.09E+15,0
 haiti 27 1?g,0
-6.25525E+15,0
+6.26E+15,0
 96174245k,0
 "plza. leire, 1, 6?a",0
 jed,0
@@ -15315,7 +15317,7 @@ printers,0
 ridgeley_fechner@beesmer.ye,0
 burns40,0
 woll@stockdefotos.bb,0
-8.27854E+15,0
+8.28E+15,0
 7361,0
 5370,0
 "manzano, el",0
@@ -15325,14 +15327,14 @@ lacavex lafont,0
 6849,0
 gayle@freetag.name,0
 siede@comodepilarse.ye,0
-6.39488E+14,0
+6.39E+14,0
 85009456f,0
 35936056m,0
 6736,0
 leiza,0
 zool7ic1,0
 5mpe92onal,0
-4.81172E+15,0
+4.81E+15,0
 polvoraduque,0
 85amo,0
 said,0
@@ -15344,7 +15346,7 @@ kato,0
 "c/ zumalacarregui 87,",0
 29579903v,0
 v5482+ct0,0
-3.31765E+15,0
+3.32E+15,0
 plang_schallert@white-pearl-resort.kp,0
 chavis,0
 98970543w,0
@@ -15353,7 +15355,7 @@ chavis,0
 "calle tampa 108, 7-g",0
 e298r4jina715,0
 sar2384g0,0
-2.46691E+14,0
+2.47E+14,0
 cocina_r,0
 curi piccech,0
 millot_power@guejos.sv,0
@@ -15362,7 +15364,7 @@ millot_power@guejos.sv,0
 "paseo pinos, 147",0
 madrigal del monte,0
 "carretera nacional 139, 9?a",0
-6.05258E+15,0
+6.05E+15,0
 83178933p,0
 "c/ otumba, 132,",0
 taboada,0
@@ -15377,7 +15379,7 @@ quint,0
 diana,0
 mozek,0
 plza. taboada chivite 32 5?b,0
-6.70192E+15,0
+6.70E+15,0
 3748ny,0
 c/ rivera de los limonetes 98,0
 pizani@unanuevavisionenortodoncia.tg,0
@@ -15390,7 +15392,7 @@ pierre,0
 coder,0
 "c/ andorra, 71",0
 724,0
-5.45333E+15,0
+5.45E+15,0
 1656,0
 15911,0
 aizpuru cerusoli,0
@@ -15414,7 +15416,7 @@ sweldund-pasetti@supercover.lt,0
 san bartolom,0
 66564863b,0
 slavova@costablancarental.ug,0
-3.53283E+14,0
+3.53E+14,0
 "guzman de alfarache, 18,",0
 97925933y,0
 82818101t,0
@@ -15445,7 +15447,7 @@ cormac1,0
 78595518x,0
 g5adae3a,0
 masashi,0
-3.06517E+15,0
+3.07E+15,0
 arrafiz,0
 01633578a,0
 23,0
@@ -15474,7 +15476,7 @@ ensaa6o,0
 "escritor miguel delibes 0, 7?b",0
 "calle la paz, 88,",0
 50491,0
-6.34351E+15,0
+6.34E+15,0
 "calle profeta, 96, 2?c",0
 r8cid0va,0
 celeste_bryon@skullride.ki,0
@@ -15509,7 +15511,7 @@ pozaldez,0
 "camino caserio parada, s/n, 4b",0
 polopos,0
 hildebaldo,0
-6.25662E+15,0
+6.26E+15,0
 17867,0
 3200,0
 2.03E+15,0
@@ -15520,13 +15522,13 @@ ubieta,0
 25254382z,0
 2ea6on9s,0
 cister grandi,0
-2.77156E+15,0
+2.77E+15,0
 7743,0
-8.64151E+15,0
+8.64E+15,0
 5469,0
 28177i6sa,0
 5212,0
-8.11985E+15,0
+8.12E+15,0
 "c/ general merry del val, s/n",0
 tartarizar,0
 13750,0
@@ -15588,7 +15590,7 @@ c/ comercio 51,0
 "calle juan de mena, 133",0
 9ara,0
 nonaspe,0
-3.57286E+15,0
+3.57E+15,0
 taghizad,0
 trilles aedo,0
 dierkes.casado5@firstchoicecoffee.ms,0
@@ -15612,7 +15614,7 @@ sempere,0
 18223647b,0
 37522,0
 teosa,0
-6.58835E+15,0
+6.59E+15,0
 dalmacio,0
 dudarova@automoviles-hibridos.ag,0
 siomara,0
@@ -15724,17 +15726,17 @@ yamile de francisco,0
 jandtegui curell,0
 psklib,0
 coripe,0
-8.93682E+15,0
+8.94E+15,0
 49893169m,0
 "merca, a",0
 86651591b,0
 delsa,0
 piperni,0
 themselves-ignez@powerthink.cx,0
-4.97885E+15,0
+4.98E+15,0
 byoungin,0
 "calle castellet 94,",0
-4.24505E+15,0
+4.25E+15,0
 03307827j,0
 "c/ gallarza, 147",0
 31414,0
@@ -15754,7 +15756,7 @@ lttecke,0
 chanco,0
 53933880f,0
 baxley@italianmotorvillagesevilla.sh,0
-5.1E+15,0
+5.10E+15,0
 29385081m,0
 abraham,0
 dorene6,0
@@ -15762,7 +15764,7 @@ dorene6,0
 paz,0
 9437,0
 sappington-espana@fighting-machines.mq,0
-3.45951E+14,0
+3.46E+14,0
 de arce millares,0
 bho,0
 encatusar,0
@@ -15784,7 +15786,7 @@ giralda,0
 abi,0
 1.16E+15,0
 6i4t562e7a,0
-2.23935E+15,0
+2.24E+15,0
 bic9spide,0
 389,0
 14140,0
@@ -15813,7 +15815,7 @@ ayca mols,0
 17488,0
 7608,0
 18517,0
-5.33828E+15,0
+5.34E+15,0
 34859412z,0
 17130,0
 despacio,0
@@ -15825,7 +15827,7 @@ fregaci5n,0
 5316,0
 pechur@spainbareback.fm,0
 86274990n,0
-6.20274E+15,0
+6.20E+15,0
 cabrillas,0
 gonzaga ripalda,0
 cabal urrupan,0
@@ -15840,7 +15842,7 @@ c/ cofa 39,0
 9110,0
 2129,0
 ehrlich.selwyne@ebaz.ba,0
-7.9139E+15,0
+7.91E+15,0
 "pedrosas, las",0
 49699,0
 dante@opticaweb.mobi,0
@@ -15858,7 +15860,7 @@ perales del alfambra,0
 renick@piaceredelivery.hn,0
 astar@guiapolicial.lt,0
 naestiberger@biogasworld.rs,0
-6.51129E+15,0
+6.51E+15,0
 03206041w,0
 8374f09a2,0
 98097212g,0
@@ -15884,9 +15886,9 @@ rob,0
 almirall pahisa,0
 45643261z,0
 7106,0
-4.77403E+15,0
+4.77E+15,0
 12311,0
-4.14869E+15,0
+4.15E+15,0
 27837,0
 arceo feliu,0
 shorwan,0
@@ -15895,7 +15897,7 @@ tehchi8,0
 zenaires,0
 hsien,0
 brian,0
-4.81564E+15,0
+4.82E+15,0
 roquelina,0
 rasifo,0
 merl,0
@@ -15915,7 +15917,7 @@ cuarter8da,0
 antoine,0
 17005940q,0
 7497,0
-3.786E+15,0
+3.79E+15,0
 19846981m,0
 berghof@esbien.bt,0
 refrigerativo,0
@@ -15932,11 +15934,11 @@ ferris,0
 229i9967te,0
 brewer,0
 55341505d,0
-5.60169E+15,0
+5.60E+15,0
 37576555y,0
 cristaldo marchan,0
 rosa,0
-6.87721E+15,0
+6.88E+15,0
 siu-ling,0
 dudas,0
 4067,0
@@ -15944,7 +15946,7 @@ wickens@cpanelhost.com.ht,0
 germe,0
 9226,0
 brasset,0
-8.77345E+15,0
+8.77E+15,0
 6e665a,0
 panter,0
 sims2@videocasa-ebs.ru,0
@@ -16016,8 +16018,8 @@ giuliani casabella,0
 brait_burbridge@fichajes.nom.ic,0
 nemesio,0
 rosenblatt@hormigon-impreso.az,0
-7.2E+15,0
-8.65216E+15,0
+7.20E+15,0
+8.65E+15,0
 carstens,0
 "c/ gustavo adolfo becquer 91,",0
 san miguel del pino,0
@@ -16042,13 +16044,13 @@ burguillos de toledo,0
 gaianes,0
 yuvia,0
 "calle robert gerhard, s/n 6c",0
-5.01119E+15,0
+5.01E+15,0
 "c/ la hortensia, s/n",0
 ae57f5r4,0
 22535,0
 puebla de don fadrique,0
 12413,0
-5.9335E+15,0
+5.93E+15,0
 8363,0
 boony,0
 aguilera troule,0
@@ -16094,7 +16096,7 @@ mayolas,0
 oti sineiro,0
 "calle de can castellvi 35, 10-h",0
 31788831w,0
-7.98317E+15,0
+7.98E+15,0
 lyston@classroommanager.co,0
 35093869d,0
 magnin_arne@tiebreak.com.sr,0
@@ -16105,17 +16107,17 @@ ludolfo,0
 48549953n,0
 1.29E+15,0
 "codigo correspondencia oficial correos-telegrafos 86,",0
-5.96812E+15,0
+5.97E+15,0
 "calle rendona 45, 5-a",0
 congostrina,0
 oesterlein@connect.pw,0
 "calle arenys de mar, 113,",0
 levert_lightfoot@laschinas.tm,0
 mendie,0
-7.68627E+15,0
+7.69E+15,0
 31587,0
 carricar,0
-2.96781E+15,0
+2.97E+15,0
 koontz,0
 tacita,0
 1418,0
@@ -16130,7 +16132,7 @@ reinazgo,0
 19461,0
 978,0
 medel pujolriu,0
-6.12137E+15,0
+6.12E+15,0
 cruey,0
 77711232m,0
 7781,0
@@ -16143,7 +16145,7 @@ fraccionario,0
 hungkang,0
 "callejon sur, 93 13-c",0
 michalowski@lodgeinmadrid.mu,0
-3.94593E+15,0
+3.95E+15,0
 azema.alvir@telogis.gf,0
 1oca,0
 nogueras,0
@@ -16166,9 +16168,9 @@ hemisfero,0
 8520,0
 thomson.kmit9@somagel.sk,0
 kaunas,0
-8.69184E+15,0
+8.69E+15,0
 yeste meloda,0
-8.41734E+15,0
+8.42E+15,0
 vimbre,0
 grigoriu matons,0
 55950989q,0
@@ -16176,7 +16178,7 @@ grigoriu matons,0
 15819331t,0
 passatge de manyer 105,0
 69301315s,0
-2.78007E+14,0
+2.78E+14,0
 68203466w,0
 1467,0
 hermanos barral 61,0
@@ -16217,7 +16219,7 @@ yaonan,0
 flo hosta,0
 maijhara,0
 19141,0
-7.96454E+15,0
+7.96E+15,0
 franklin,0
 chimenea,0
 fabres jordi,0
@@ -16240,13 +16242,13 @@ oviedo,0
 66750565b,0
 decidir,0
 raush.runyon@discoteatre.fk,0
-3.05338E+15,0
+3.05E+15,0
 spry.jochmann@spainbb.sz,0
 mcguinness.clayburgh7@eldeseodepecar.gu,0
 bravat-a,0
 01449063v,0
 fuente la reina,0
-1.3438E+15,0
+1.34E+15,0
 lopez castrillon 162,0
 1is4r1o,0
 villodrigo,0
@@ -16267,14 +16269,14 @@ sant llus,0
 stanczak-kasem@movil-google.tj,0
 66,0
 33814848h,0
-3.12382E+15,0
+3.12E+15,0
 graydon,0
 47,0
 1998,0
 6478,0
 beilul,0
 9629,0
-8.996E+15,0
+9.00E+15,0
 mary-ell,0
 rincn,0
 "palomares, 2 11b",0
@@ -16312,21 +16314,21 @@ colvara pulve,0
 48552,0
 agalladura,0
 sabadell,0
-4.22605E+15,0
+4.23E+15,0
 howe1,0
 co*marca,0
 58261127b,0
 pettingill@demasiado.com.bv,0
 39500,0
-8.85924E+15,0
+8.86E+15,0
 zauhar,0
 lehmann cruanas,0
 s9p2212419435.5,0
 8930,0
-5.5366E+15,0
+5.54E+15,0
 01632755p,0
 ochoa7,0
-2.97648E+15,0
+2.98E+15,0
 millana,0
 haroun,0
 gaylord,0
@@ -16339,8 +16341,8 @@ agam1,0
 jane@23horas.ua,0
 rohit,0
 "sin sol 15,",0
-8.74946E+15,0
-8.58811E+15,0
+8.75E+15,0
+8.59E+15,0
 karkotsk,0
 illano,0
 paracuellos de jarama,0
@@ -16355,7 +16357,7 @@ organizar,0
 4897,0
 equivalentemente,0
 bazet aguil,0
-7.90589E+15,0
+7.91E+15,0
 "masia can sang, 33",0
 saya,0
 8.79E+15,0
@@ -16369,7 +16371,7 @@ valdelagua del cerro,0
 gonzalvo gorriti,0
 barco montull,0
 23611,0
-8.33614E+15,0
+8.34E+15,0
 "calle jose canovas pujante, 106 8g",0
 "granados 151,",0
 "zoma, la",0
@@ -16398,7 +16400,7 @@ tait,0
 acrianzada,0
 "omellons, els",0
 "roure, 43, 3?d",0
-2.7841E+15,0
+2.78E+15,0
 "calle benito monfort 60,",0
 sprouse,0
 d'amico urrea,0
@@ -16420,7 +16422,7 @@ magaz de pisuerga,0
 2.59E+15,0
 cea,0
 uvalle urpina,0
-8.7027E+15,0
+8.70E+15,0
 2138,0
 5he1un,0
 15990,0
@@ -16432,7 +16434,7 @@ egido s/n,0
 "calle ducado de neopatria 63, 12-h",0
 baer,0
 gauchaje,0
-5.11823E+15,0
+5.12E+15,0
 18858,0
 calle constanti s/n 5?h,0
 tinajas,0
@@ -16440,7 +16442,7 @@ charley,0
 bret3,0
 "espartero, 103, 5-f",0
 miera,0
-7.69984E+15,0
+7.70E+15,0
 antero,0
 "camio adelfas, 148, 5?g",0
 2isp3n?3io43,0
@@ -16448,7 +16450,7 @@ ricard,0
 88356550a,0
 wostrikoff@hojainformativas.gi,0
 urchins@waikilu.mg,0
-3.88988E+15,0
+3.89E+15,0
 coca de alba,0
 "paseo alameda de osuna 10,",0
 thuong,0
@@ -16456,31 +16458,31 @@ drier@hotelesymas.cl,0
 timmons,0
 "plaa mig de can clos, 122",0
 desans totohuetotzint,0
-3.72946E+15,0
+3.73E+15,0
 exigidad,0
 80,0
 thiel,0
 igzquiza,0
 anz1@hiperbilbao.fj,0
-3.09031E+15,0
+3.09E+15,0
 20,0
 negredo,0
 "c/ el columpio 13,",0
 ado,0
 malacopterigio,0
-6.83781E+15,0
+6.84E+15,0
 "once septiembre, 95",0
 montorns de segarra,0
 "c/ bellavista, 70 10h",0
 10960,0
 jo,0
-6.34191E+15,0
+6.34E+15,0
 morlanes funosa,0
 laguna del marquesado,0
 marcanti,0
 pozal de gallinas,0
 animador!a,0
-8.32456E+15,0
+8.32E+15,0
 "calle andres mellado, 83, 12-d",0
 inamulla,0
 8033,0
@@ -16499,7 +16501,7 @@ zoldou@stainless.tw,0
 92540376z,0
 patenaud,0
 adria,0
-1.42319E+15,0
+1.42E+15,0
 warhol@programagestionerp.ai,0
 renny,0
 wamba,0
@@ -16524,7 +16526,7 @@ radresa aja,0
 con10e4t2,0
 t16564l,0
 22373,0
-3.45448E+15,0
+3.45E+15,0
 palls de buran,0
 "dos aceras 119,",0
 lagata,0
@@ -16550,7 +16552,7 @@ soldani-godet@informex.ru,0
 menospreciativo,0
 manferidor,0
 "silo 179, 12?b",0
-1.22869E+15,0
+1.23E+15,0
 fresno de la vega,0
 arcos,0
 18339,0
@@ -16563,7 +16565,7 @@ brownfie,0
 knyht9@aspirantes.lt,0
 37755,0
 973,0
-3.1201E+15,0
+3.12E+15,0
 piejo,0
 lester_muenster@erasmusrooms.org,0
 ubaldino,0
@@ -16595,7 +16597,7 @@ enanzar,0
 02ap36o5473,0
 63482988k,0
 stefana1,0
-8.71176E+15,0
+8.71E+15,0
 73502486y,0
 18540,0
 60928646j,0
@@ -16604,20 +16606,20 @@ mataronesa,0
 plumero,0
 rupp@djbroadcast.gov,0
 jengibre,0
-5.93447E+15,0
+5.93E+15,0
 "c/ valdepalitos 155, 5-a",0
 2ariosamente,0
 vila kusanovic,0
 nooshin,0
-7.66646E+15,0
-3.30212E+15,0
+7.67E+15,0
+3.30E+15,0
 a8o8decer,0
 tarpey@bwds.ne,0
-5.58562E+15,0
+5.59E+15,0
 gaja,0
 22440,0
 "c/ cangas del narcea, 97, 12?e",0
-4.96159E+14,0
+4.96E+14,0
 8409,0
 32621,0
 gwohsing,0
@@ -16634,7 +16636,7 @@ espa7t4ro,0
 schwuchow9@viajessolomujeres.bj,0
 santa maria de corc,0
 jamaal,0
-3.61612E+15,0
+3.62E+15,0
 mccowen@esencialser.mn,0
 rastrilladora,0
 macinnes,0
@@ -16656,14 +16658,14 @@ c4nt0rn,0
 zein,0
 termmetro,0
 "c/ ereta, 104,",0
-6.91307E+15,0
+6.91E+15,0
 sitiwet-chagas@creacionesacampada.travel,0
 3525,0
 "romana, la",0
 alysia,0
 1084,0
 pelle1@906.com.aq,0
-1.76964E+15,0
+1.77E+15,0
 calle juan agui 97 9-e,0
 26562587w,0
 av. carlos marx s/n,0
@@ -16691,7 +16693,7 @@ clar gabarri,0
 musi@inmobiliariahangar.vn,0
 nurit,0
 adalino,0
-4.59244E+15,0
+4.59E+15,0
 "calle diamante, 57",0
 agatn,0
 10332,0
@@ -16706,7 +16708,7 @@ canciano,0
 85510378n,0
 piols padilla,0
 8l077ra,0
-4.4334E+15,0
+4.43E+15,0
 cubillos del sil,0
 oxendine,0
 kalila,0
@@ -16716,7 +16718,7 @@ alegra,0
 bayarri bach,0
 valdehorna,0
 2446e8t6da,0
-4.61189E+15,0
+4.61E+15,0
 sadoc,0
 calle regimineto del sol 48 10e,0
 33279,0
@@ -16728,7 +16730,7 @@ yalile,0
 9530,0
 48748000y,0
 colls messegu,0
-6.75986E+15,0
+6.76E+15,0
 sazarina_logue@gay-tantra.lc,0
 yaci,0
 "infantes de carrion, 122",0
@@ -16772,7 +16774,7 @@ iruraiz-gauna,0
 "calle santa apolonia, 47,",0
 8e6a74aer,0
 villarejo del valle,0
-9.45394E+14,0
+9.45E+14,0
 pl9t1r4,0
 prdena del rincn,0
 15423399j,0
@@ -16800,13 +16802,13 @@ robledillo de la jara,0
 d2s7sp79ro,0
 3549,0
 mullin@gopersonaltrainers.nr,0
-1.76476E+15,0
+1.76E+15,0
 45025499d,0
 gaspard-birgel@indorec.kr,0
 arre,0
 "calle barrio villayuda 169,",0
 8888,0
-5.25966E+15,0
+5.26E+15,0
 chmara@novolardiseno.ky,0
 13061311w,0
 lucena,0
@@ -16825,7 +16827,7 @@ iocntrl,0
 san vicente de la cabeza,0
 5907,0
 nahuel,0
-4.97922E+15,0
+4.98E+15,0
 ejarque barbieri,0
 e2paq48t282r,0
 12466,0
@@ -16840,19 +16842,19 @@ calle velardes s/n 1?e,0
 dalleto poroma,0
 9810,0
 23485,0
-7.95304E+15,0
+7.95E+15,0
 93640511j,0
 p870en538r7,0
 grin,0
 closa ortell,0
 beiza ivanco,0
 6448,0
-8.99357E+15,0
+8.99E+15,0
 disney,0
 63eb2ya,0
 denice,0
-1.26952E+15,0
-7.11566E+15,0
+1.27E+15,0
+7.12E+15,0
 18653468p,0
 haenning@maxitienda.be,0
 "calle ladera, 147 10-e",0
@@ -16867,7 +16869,7 @@ vries,0
 calle capitan palacios 71,0
 roze,0
 "calle juana ibarborou 134,",0
-3.71442E+15,0
+3.71E+15,0
 ciro,0
 bularros,0
 laga_rtijo,0
@@ -16891,8 +16893,8 @@ latimer@puntodevistafotografia.ve,0
 40151,0
 0al5a4,0
 adlard@muebemiweb.ke,0
-3.24209E+15,0
-7.51931E+15,0
+3.24E+15,0
+7.52E+15,0
 "cabrera, 199",0
 1856,0
 mieres,0
@@ -16946,14 +16948,14 @@ philips@davidymamen.sa,0
 madisett,0
 meeks,0
 marciniu,0
-6.71628E+15,0
+6.72E+15,0
 azorin 35 1b,0
 albertini_trauberg@theroxyblue.jo,0
 yudin,0
 atontamiento,0
 maurilio,0
 "calle perez galdos 193,",0
-5.77313E+14,0
+5.77E+14,0
 japan,0
 inobediecia,0
 deli6escenci1,0
@@ -16967,7 +16969,7 @@ im$ponderable,0
 9.20E+15,0
 0orru6t5,0
 salina-sonajew@almeriastella.vg,0
-8.42194E+15,0
+8.42E+15,0
 theo,0
 mareah,0
 nolberto,0
@@ -16994,7 +16996,7 @@ mangot barra,0
 roldan,0
 r3nci8l5so,0
 carpool,0
-5.7678E+14,0
+5.77E+14,0
 calafell palmieri,0
 cunanan,0
 20654328y,0
@@ -17005,20 +17007,20 @@ tarragona,0
 52930776w,0
 canales,0
 cintio,0
-5.34929E+15,0
+5.35E+15,0
 oreste,0
 kazuo,0
 07u8e37ia,0
 brokaw,0
 64sfa4imiento,0
-5.88668E+15,0
+5.89E+15,0
 embargad!o,0
 3.89E+15,0
-9.92218E+14,0
+9.92E+14,0
 "quintana 19, 13f",0
 "c/ cerro, 87 2?b",0
 "paseo francisco mir berlanga 141, 12-e",0
-7.68942E+15,0
+7.69E+15,0
 "masroig, el",0
 18129,0
 acabadamente,0
@@ -17033,9 +17035,9 @@ hutchins@foreignoffice.sa,0
 finak,0
 85765253r,0
 18684547z,0
-8.93945E+14,0
+8.94E+14,0
 38847166m,0
-8.76216E+15,0
+8.76E+15,0
 acachorrar,0
 "sol, 153",0
 laycock_faulds@peaf.sd,0
@@ -17051,7 +17053,7 @@ bond@tomorrow.com.hk,0
 princep muntadas,0
 6703,0
 6131,0
-7.05723E+15,0
+7.06E+15,0
 malleson_varney@tomorrow.com.cz,0
 alcalde manuel de la pinta s/n 13?f,0
 229669a3a,0
@@ -17067,10 +17069,10 @@ graciano,0
 d9str7par,0
 mundy,0
 37796,0
-8.23106E+15,0
+8.23E+15,0
 oretana,0
 al9ol,0
-3.07402E+15,0
+3.07E+15,0
 mosegui bofill,0
 28295,0
 mohar@ropadegolf.gg,0
@@ -17099,7 +17101,7 @@ beato,0
 victorino,0
 aldeanueva de santa cruz,0
 androlo,0
-7.13661E+15,0
+7.14E+15,0
 lantarn,0
 bujaraloz,0
 brazzel1@castigadas.am,0
@@ -17129,14 +17131,14 @@ moretti alegre,0
 zoq3et1r8,0
 "doctor ramon sanchez-parra, 17 11?d",0
 trampeador,0
-6.16251E+15,0
+6.16E+15,0
 shihhai0,0
 parkin,0
 dowser,0
 marcelo,0
 desortija0a,0
 51993302p,0
-5.15574E+15,0
+5.16E+15,0
 baxie,0
 veracruz,0
 "calle garci-perez 41, 9?c",0
@@ -17181,7 +17183,7 @@ vitalia,0
 polit lauli,0
 1478,0
 80819303v,0
-3.81793E+14,0
+3.82E+14,0
 elysha,0
 crabe,0
 "calle sol s/n,",0
@@ -17200,7 +17202,7 @@ enco,0
 .corporativo,0
 belia,0
 robelo@moviels.me,0
-5.181E+15,0
+5.18E+15,0
 52943030c,0
 29807509s,0
 "c/ afluente, 82",0
@@ -17208,7 +17210,7 @@ harshad,0
 alegre nomdedeu,0
 l5r78gea,0
 edelmar,0
-8.25977E+15,0
+8.26E+15,0
 letha,0
 pente@maxitienda.ms,0
 "calle juan de uceda, 180,",0
@@ -17255,7 +17257,7 @@ enratonarse,0
 urbon,0
 cath,0
 51518357j,0
-8.3888E+15,0
+8.39E+15,0
 idelfonsa,0
 43595,0
 caruth5@wave.com.pt,0
@@ -17276,7 +17278,7 @@ barlas,0
 dormer,0
 boca de hurgano,0
 castell de rugat,0
-6.52922E+15,0
+6.53E+15,0
 shing-mi,0
 e00u4rda2,0
 ninon,0
@@ -17285,31 +17287,31 @@ jiyuan,0
 "vinyals, 117 4?e",0
 tors,0
 andara francino,0
-1.50338E+15,0
+1.50E+15,0
 gullera,0
 eisenberg@muchochinoenchina.mx,0
 80876345l,0
 amber,0
 vallado oliveras,0
-5.1284E+14,0
+5.13E+14,0
 3180,0
 46630334l,0
 5866,0
 zarpanel,0
-8.01225E+15,0
+8.01E+15,0
 staton,0
-3.31324E+15,0
+3.31E+15,0
 ninn,0
 boimorto,0
-2.6419E+15,0
-1.35045E+15,0
+2.64E+15,0
+1.35E+15,0
 tapinga,0
 9ei91n,0
 vall de ebo,0
-1.02606E+15,0
+1.03E+15,0
 retasac5n,0
 "moncayo 46,",0
-3.6E+15,0
+3.60E+15,0
 alfamn,0
 navalvillar de ibor,0
 shrum@uniovivirtual.nz,0
@@ -17327,7 +17329,7 @@ c4l6716o,0
 alvino,0
 carbajosa de la sagrada,0
 asacadora,0
-5.95675E+15,0
+5.96E+15,0
 "lapa, la",0
 vanera,0
 42855301e,0
@@ -17341,7 +17343,7 @@ marice,0
 beterette estruga,0
 talens zumalacrregui,0
 30034324g,0
-8.90606E+14,0
+8.91E+14,0
 bowen-gugolka@soyriojano.name,0
 anglaril,0
 filomena,0
@@ -17369,14 +17371,14 @@ adashevsky@theroxyblue.com,0
 chistiakov@zytechwind.ke,0
 8328,0
 62120654t,0
-6.34182E+15,0
+6.34E+15,0
 banyeres del peneds,0
 81470918l,0
 farmacoplica,0
 58743816e,0
 c/ marquesa de vilallonga 53 5f,0
 callosar,0
-1.27984E+15,0
+1.28E+15,0
 "c/ valtravieso s/n,",0
 sarmiento,0
 wahlberg8@am-si.np,0
@@ -17385,17 +17387,17 @@ cadek,0
 38948590e,0
 murad@magadan.org.pe,0
 ferrandez cabaas,0
-2.01871E+15,0
+2.02E+15,0
 acr7m6nia,0
 kaycee,0
 knight_freihart@tresbrujas.qa,0
 "cami terminal s/n,",0
-8.83838E+15,0
+8.84E+15,0
 8693,0
 massimo,0
 vies canales,0
 kenta1,0
-4.29127E+15,0
+4.29E+15,0
 "c/ juan de bustamante, 30, 10b",0
 metrics,0
 guango,0
@@ -17428,14 +17430,14 @@ elian,0
 messenger@blanquillos.pk,0
 5h5c8,0
 erhard@miplat.il,0
-8.62225E+15,0
+8.62E+15,0
 carablanca,0
 4.79E+15,0
 38726,0
 en683$67,0
 lagunaseca,0
 reinhard,0
-6.96678E+15,0
+6.97E+15,0
 1.46E+15,0
 carretera de las ermitas 188,0
 jovn,0
@@ -17444,12 +17446,12 @@ kavaler,0
 roquemore@veocime.bu,0
 "calle catedratico eugenio ubeda romero, s/n,",0
 villamuera de la cueza,0
-1.56766E+14,0
+1.57E+14,0
 31013,0
 torralba del ro,0
 avril,0
 7986,0
-3.38196E+14,0
+3.38E+14,0
 entregadora,0
 bauer,0
 "calle manuel de falla, 65 5?a",0
@@ -17461,7 +17463,7 @@ guhl.monks@goscan.za,0
 "calle brasilia, 68,",0
 95549133a,0
 goertzen,0
-6.48256E+15,0
+6.48E+15,0
 28287163s,0
 "primavera, 174",0
 "de l' aliga 3,",0
@@ -17519,8 +17521,8 @@ pool echenique,0
 zempoalteca fuxet,0
 cambrils,0
 allman,0
-5.27767E+15,0
-8.59153E+15,0
+5.28E+15,0
+8.59E+15,0
 3151,0
 cu2tre8a,0
 espls,0
@@ -17546,7 +17548,7 @@ minter@ac-activos.sk,0
 9.06E+15,0
 valverde de los arroyos,0
 fabrs xamena,0
-6.28598E+15,0
+6.29E+15,0
 yee,0
 yoel,0
 "calle reina violante, 35,",0
@@ -17556,7 +17558,7 @@ faada,0
 "el reyezuelo, 15",0
 t6r551ero,0
 hinojal,0
-4.67615E+15,0
+4.68E+15,0
 33180,0
 adrie,0
 tamerlani@ubikuo.cc,0
@@ -17567,11 +17569,11 @@ armero filippi,0
 "almirante cruilles 19, 11?c",0
 deloria,0
 castellanos de zapardiel,0
-5.76573E+15,0
+5.77E+15,0
 ausent+e,0
 empece9ora,0
 dra2atizar,0
-3.36323E+15,0
+3.36E+15,0
 otumba 24 13e,0
 crosby,0
 vannuchhi_ecoffery@hotelesjerez.vc,0
@@ -17581,7 +17583,7 @@ pifiar,0
 23715739w,0
 3500,0
 72484997z,0
-7.64748E+15,0
+7.65E+15,0
 57879425v,0
 ballista@kpincentives.sa,0
 84826588n,0
@@ -17589,12 +17591,12 @@ ballista@kpincentives.sa,0
 leopolda,0
 6onc+hesta,0
 del cid labastie,0
-3.15402E+15,0
+3.15E+15,0
 miner@zing.lk,0
-4.79764E+15,0
+4.80E+15,0
 6h11a3rud9,0
 paterna del campo,0
-2.93801E+15,0
+2.94E+15,0
 8.73E+15,0
 14li6l4,0
 irado,0
@@ -17602,7 +17604,7 @@ jarad,0
 hormilla,0
 cuatriduana,0
 livino,0
-4.52635E+14,0
+4.53E+14,0
 villalpando iturbide,0
 8249,0
 griffith_chesbro@psykoterapeut.sn,0
@@ -17611,7 +17613,7 @@ griffith_chesbro@psykoterapeut.sn,0
 ge2613an0,0
 88280590n,0
 dick,0
-4.80387E+15,0
+4.80E+15,0
 eglevsky-dux@tacticlinks.ch,0
 "travesia brieva, 171,",0
 9.02E+15,0
@@ -17641,7 +17643,7 @@ hartzenbusch 98,0
 recerdo,0
 beckwith,0
 ilusiva,0
-6.61271E+15,0
+6.61E+15,0
 "c/ andres piquer 175, 2?b",0
 espinoza@canariasatuaire.lb,0
 mathieso,0
@@ -17651,7 +17653,7 @@ toolbox,0
 26292,0
 15lo956i1o,0
 preixens,0
-6.67245E+15,0
+6.67E+15,0
 techumbre,0
 "olivar, 174,",0
 "c/ montaer ruiz, 24, 12a",0
@@ -17675,7 +17677,7 @@ condemios de arriba,0
 alberuela de tubo,0
 85233754d,0
 ulc0r81a,0
-4.55062E+15,0
+4.55E+15,0
 "c/jon peuelas, 117,",0
 0om7rera,0
 tapia de casariego,0
@@ -17690,7 +17692,7 @@ cossovel-heintel@camiones-hibridos.ec,0
 82063475g,0
 ex8ed2ci3,0
 guilbert_silver@maquillajeparalabios.dj,0
-3.52714E+15,0
+3.53E+15,0
 "c/ cels gomis i mestre 171,",0
 ondorica arabia,0
 "altos de lillo, 137",0
@@ -17723,7 +17725,7 @@ jou de lagarza,0
 masferr massans,0
 40444,0
 baquerizo amatll,0
-8.27055E+15,0
+8.27E+15,0
 8.51E+15,0
 cuevas de san marcos,0
 "alfalfa 47,",0
@@ -17756,7 +17758,7 @@ ramiz,0
 harlin,0
 cancio,0
 20150,0
-5.85437E+15,0
+5.85E+15,0
 76156835v,0
 exceptacin,0
 "arroyo prado del rey 60,",0
@@ -17799,7 +17801,7 @@ ariel,0
 6440,0
 ajaraca,0
 70136564l,0
-5.18985E+14,0
+5.19E+14,0
 bly7,0
 guasch xifr,0
 2425,0
@@ -17826,7 +17828,7 @@ wardle,0
 willie51,0
 llompart maydana,0
 95001516q,0
-7.78503E+15,0
+7.79E+15,0
 50227,0
 milton@diagnosticoradiologico.asia,0
 svenn-er,0
@@ -17843,7 +17845,7 @@ sauprobo,0
 urbina granda,0
 46562846j,0
 75512816k,0
-2.25315E+15,0
+2.25E+15,0
 marshaus,0
 hermindo,0
 calle el milagrena s/n 10a,0
@@ -17851,11 +17853,11 @@ enjabonadura,0
 alma,0
 spain@erasmusrooms.bi,0
 2111,0
-2.91012E+15,0
+2.91E+15,0
 bogs terradas,0
-7.36777E+15,0
+7.37E+15,0
 pospisil,0
-5.24225E+13,0
+5.24E+13,0
 ti20,0
 casacuberta delacerda,0
 palmieri layi,0
@@ -17879,7 +17881,7 @@ tromba,0
 cracoviano,0
 "calle la corta, 85",0
 gasull vadell,0
-1.69372E+15,0
+1.69E+15,0
 maeya,0
 dagma,0
 whitehur,0
@@ -17901,7 +17903,7 @@ desi4teresal,0
 hania,0
 kovac,0
 "macario, 87,",0
-8.40007E+15,0
+8.40E+15,0
 25727,0
 afijacin,0
 ojeda fita,0
@@ -17912,7 +17914,7 @@ lotfaga,0
 16966742x,0
 9.18E+15,0
 otxandio,0
-7.6889E+15,0
+7.69E+15,0
 pesado stahler,0
 jaca 75,0
 m_at1i852se,0
@@ -17926,7 +17928,7 @@ m_at1i852se,0
 27915,0
 el-am,0
 yaser,0
-6.09196E+15,0
+6.09E+15,0
 caamao alayo,0
 yong-gomori@andrestabernero.gg,0
 salvina,0
@@ -17935,7 +17937,7 @@ fogars de la selva,0
 53527134q,0
 hymen_israeli@aulahost.vc,0
 4u9_l5o,0
-4.64693E+15,0
+4.65E+15,0
 50700,0
 bijman3,0
 levert,0
@@ -17949,15 +17951,15 @@ retallac,0
 levitin,0
 pablo,0
 calle bertran de castellet 28 6e,0
-8.12979E+15,0
+8.13E+15,0
 "calle jose espejo, 130, 12?a",0
 naca39,0
-3.63611E+15,0
+3.64E+15,0
 liliana,0
 parmenia,0
 calle nieto 41,0
 doron@beljos.ch,0
-7.69444E+15,0
+7.69E+15,0
 19462,0
 fl5ct499t1,0
 9857,0
@@ -17967,7 +17969,7 @@ ianace,0
 c6he5era,0
 3578,0
 elido,0
-8.17915E+15,0
+8.18E+15,0
 sauleda fidalgo,0
 "c/ clarin, 117",0
 montesano_wontner@pcvirus.tm,0
@@ -17982,7 +17984,7 @@ otowa@ebuy.com.ci,0
 39699852n,0
 "calle ginebra, 138",0
 alcoy/alcoi,0
-4.65441E+15,0
+4.65E+15,0
 thompson,0
 2742,0
 "calle gibraltar, 88",0
@@ -17995,7 +17997,7 @@ ad0inist1ador9,0
 21302211w,0
 fady,0
 10858,0
-3.74288E+15,0
+3.74E+15,0
 83677248m,0
 skylar,0
 valcourt,0
@@ -18031,7 +18033,7 @@ monti,0
 burbidge@elalamorestaurante.pr,0
 16646,0
 soussa,0
-7.85716E+15,0
+7.86E+15,0
 "gimnasia 153, 4?e",0
 6120,0
 lowietje,0
@@ -18039,7 +18041,7 @@ lowietje,0
 de_leon,0
 3641,0
 rayen,0
-9.57099E+14,0
+9.57E+14,0
 17751,0
 mathurin,0
 tornielli heusser,0
@@ -18060,24 +18062,24 @@ lugar grela 152 1?f,0
 firestone@artforall.ag,0
 mohedano tinoco,0
 "calle holanda 146,",0
-6.98863E+15,0
+6.99E+15,0
 9.36E+15,0
 botosso@mytanga.cf,0
 cadaqus,0
 c2nve3e213a,0
-7.96693E+15,0
+7.97E+15,0
 "c/ la paloma, 32 12-a",0
-6.50345E+15,0
+6.50E+15,0
 02048n3ad1,0
 fitness,0
 "etorbidea nafarroa behereko, 162 6?d",0
-7.31467E+14,0
+7.31E+14,0
 rodrigo velazquez,0
 alcal de la vega,0
 sau nobrega,0
 2783,0
 inoportunamente,0
-6.79138E+15,0
+6.79E+15,0
 rached,0
 1.65E+15,0
 peluffo1@psicoencuentronline.va,0
@@ -18104,7 +18106,7 @@ berja,0
 1626,0
 d75a4r45der,0
 doroteya,0
-1.4996E+15,0
+1.50E+15,0
 sigenza,0
 34306,0
 58193627q,0
@@ -18120,7 +18122,7 @@ tipton9,0
 "calle xiquets de valls, 138, 5?g",0
 ricciardi@enformetera.com.as,0
 yasmmane,0
-5.53776E+15,0
+5.54E+15,0
 cornisamen!to,0
 marbella,0
 64522500w,0
@@ -18133,20 +18135,20 @@ goudon,0
 perales salmern,0
 49130,0
 akca@muevetuweb.pa,0
-9.8156E+14,0
+9.82E+14,0
 "cami sant cugat al papiol 59,",0
 27340064x,0
 .32l6152v0o,0
 moriyama,0
 "moreno lopez, 55, 9-e",0
-5.20367E+15,0
+5.20E+15,0
 "alcalde esteban minguez, 169, 12?b",0
 6g369zar41,0
 noami,0
 9ot87ico,0
 c/ linajes 178 9?f,0
 eyre9@ringringcargo.tn,0
-8.52064E+15,0
+8.52E+15,0
 stratten,0
 gallifa,0
 7626,0
@@ -18159,7 +18161,7 @@ wenzel,0
 den21o9a,0
 sadegh,0
 remiendo,0
-2.89989E+15,0
+2.90E+15,0
 10302390t,0
 keehn,0
 43814,0
@@ -18170,7 +18172,7 @@ severiano,0
 cerinza,0
 leocricia,0
 calvin@espaciodelpintor.by,0
-4.86728E+15,0
+4.87E+15,0
 maren-bufford4@fruteriacartaya.yu,0
 12186635q,0
 seymour@evelin.gn,0
@@ -18187,7 +18189,7 @@ kouhi,0
 1526,0
 arpe*nde,0
 mola guell,0
-1.89443E+15,0
+1.89E+15,0
 lilien@aprendeaestudiar.lt,0
 clarucha,0
 forslund,0
@@ -18202,12 +18204,12 @@ pleiteador,0
 valdemaluque,0
 41217479f,0
 a9tr8pfag4,0
-6.81924E+15,0
-2.81517E+15,0
+6.82E+15,0
+2.82E+15,0
 38470,0
 envaronar,0
 45440,0
-1.58112E+15,0
+1.58E+15,0
 raspar,0
 quest@palmatraducciones.pw,0
 "av. vicente mortes, 78, 8?f",0
@@ -18257,7 +18259,7 @@ induracin,0
 peda2te1ca,0
 sagunto/sagunt,0
 98011650w,0
-4.8004E+14,0
+4.80E+14,0
 celio,0
 6ab48t1r,0
 aseguir,0
@@ -18316,7 +18318,7 @@ valdemoro,0
 proftica,0
 barsky,0
 retuerta fong,0
-5.12832E+15,0
+5.13E+15,0
 rubau,0
 magdiel,0
 gabriele,0
@@ -18326,7 +18328,7 @@ frailes,0
 3600,0
 12,0
 frechette8@legami.ly,0
-2.30158E+15,0
+2.30E+15,0
 alvaro-pagano@hiperpapel.an,0
 9728,0
 fontihoyuelo,0
@@ -18335,7 +18337,7 @@ tenna1,0
 pillars4,0
 seniuk,0
 ontiveros@masqueclases.th,0
-8.92715E+15,0
+8.93E+15,0
 pent0et3o,0
 45810,0
 becilla de valderaduey,0
@@ -18343,7 +18345,7 @@ escalona,0
 dukes,0
 c/ calzada 169,0
 vasil9,0
-5.56194E+15,0
+5.56E+15,0
 in8ros742tiva,0
 jaln de cameros,0
 igea,0
@@ -18373,7 +18375,7 @@ vilamasa pacheca,0
 escusaa,0
 villanueva del conde,0
 c/ gomera 148 3?e,0
-5.84996E+15,0
+5.85E+15,0
 pelamen,0
 81451206h,0
 castrillo de la valduerna,0
@@ -18408,10 +18410,10 @@ hanlon@importaproductosespaoles.cs,0
 35200,0
 lauriaul,0
 "plza. gazteluzarra, 105 7?b",0
-6.1643E+15,0
+6.16E+15,0
 isidoro,0
 abieldar,0
-6.36091E+15,0
+6.36E+15,0
 a2o2e5,0
 cella,0
 94987112x,0
@@ -18419,13 +18421,13 @@ yunquera de henares,0
 chaddie,0
 5595,0
 9.16E+15,0
-1.8461E+15,0
+1.85E+15,0
 jaki,0
 "carlos arniches 78,",0
 acu7ntiar,0
 nalbach0@softwaremasservicio.aero,0
 "ametlla de mar, l'",0
-5.861E+15,0
+5.86E+15,0
 78739097t,0
 nrez muriscot,0
 08466616v,0
@@ -18439,7 +18441,7 @@ marlsela,0
 55964057c,0
 calle pintor el greco 102 1-g,0
 puente la reina/gares,0
-5.12155E+14,0
+5.12E+14,0
 alhama de murcia,0
 marling,0
 moharra jodra,0
@@ -18455,14 +18457,14 @@ c/ moriles 91,0
 saint-simon-vondis@paremoselalzheimer.dj,0
 hattar4,0
 nandor,0
-1.38067E+15,0
+1.38E+15,0
 gelis,0
 butkus@cpanelhost.com.uz,0
 antigua,0
 2008,0
-3.72891E+15,0
+3.73E+15,0
 calle fausto fraile 0,0
-8.1203E+15,0
+8.12E+15,0
 asisia,0
 convento de las dueas 86,0
 15,0
@@ -18564,7 +18566,7 @@ guino osarte,0
 godiva,0
 49694,0
 fe4r0g6ent8,0
-4.30298E+15,0
+4.30E+15,0
 4341,0
 38i2t702,0
 "finca el jardinito, 155,",0
@@ -18578,10 +18580,10 @@ duo_davalos@designworld.cz,0
 ansaldo,0
 herodes,0
 9.95E+15,0
-3.65439E+15,0
+3.65E+15,0
 e0iz877,0
 dec4mas8xt6,0
-1.1363E+15,0
+1.14E+15,0
 atilio,0
 48128,0
 suto8i+a,0
@@ -18620,7 +18622,7 @@ c/ garcia benitez 40 6-a,0
 batallanos halpin,0
 29?em2ti3a,0
 "calle los tipografos, 98, 4g",0
-9.8986E+14,0
+9.90E+14,0
 82444604t,0
 "calle arfian 36,",0
 cibeles,0
@@ -18638,7 +18640,7 @@ odonovan@piaceredelivery.ro,0
 fortet esquer,0
 gianna,0
 57,0
-2.97358E+15,0
+2.97E+15,0
 sangres,0
 drop-box,0
 polvo,0
@@ -18649,13 +18651,13 @@ cycelia,0
 8230,0
 musson@ajuntamentdebarcelona20.pr,0
 "masia can giro, 5",0
-7.38083E+15,0
+7.38E+15,0
 gelogo,0
 4ino57l,0
-5.57567E+15,0
+5.58E+15,0
 carbonell calvet,0
 hacanea,0
-7.50908E+15,0
+7.51E+15,0
 29500,0
 mandruso,0
 477dj6r,0
@@ -18673,7 +18675,7 @@ carre mamani,0
 ivonne,0
 0ntrecerrar,0
 arbizu,0
-6.44636E+15,0
+6.45E+15,0
 "o rio, 134,",0
 tolox,0
 57rsant2541,0
@@ -18698,14 +18700,14 @@ qui0g6n16si2o,0
 brier,0
 ip50,0
 72935768p,0
-5.72741E+15,0
-3.64462E+15,0
+5.73E+15,0
+3.64E+15,0
 rushmann@clubforex.jm,0
 "jana, la",0
 de4f1g6raci4,0
 jaraba villa,0
 10155328t,0
-3.68572E+15,0
+3.69E+15,0
 96804276j,0
 infante juan manuel s/n 5?a,0
 rombeek,0
@@ -18717,7 +18719,7 @@ sobrecogimiento,0
 kinsman,0
 alcojor larenas,0
 3.33E+15,0
-3.6585E+15,0
+3.66E+15,0
 schucrenberg-oheaney3@testdevelcidad.info,0
 c96reveidil5,0
 esplendoroso,0
@@ -18726,7 +18728,7 @@ laurance@familiamarino.td,0
 7o14c0o,0
 "calle sierra del quintanar, 199 9-b",0
 nelia3,0
-1.06099E+14,0
+1.06E+14,0
 lucas fiallega,0
 4.43E+15,0
 palmario,0
@@ -18760,7 +18762,7 @@ tacuara,0
 cowper@elbauldelosrefranes.pm,0
 44494,0
 castellol,0
-7.35961E+15,0
+7.36E+15,0
 "calle pago de la serrana 109, 11?a",0
 "cami de almoster, 109,",0
 50212,0
@@ -18768,7 +18770,7 @@ baladora,0
 25617,0
 95944263q,0
 derbarn henriquez,0
-5.37737E+15,0
+5.38E+15,0
 97573176t,0
 pertusa boladera,0
 faustino cavadas 162 6-a,0
@@ -18786,7 +18788,7 @@ fullum6,0
 "c/ arago 194,",0
 "calle poligono quintos, 37,",0
 alcarrs,0
-1.93371E+15,0
+1.93E+15,0
 retiendas,0
 tomi,0
 louladak,0
@@ -18810,7 +18812,7 @@ b82r8l23o,0
 matney,0
 6928,0
 san vicente del raspeig/sant vicent del raspeig,0
-5.68541E+15,0
+5.69E+15,0
 calle puerto de alcolea 185 9-e,0
 velasque9,0
 34361279s,0
@@ -18884,7 +18886,7 @@ clipsham5,0
 6ait1na89,0
 1317,0
 zaleska_legon@zampy.so,0
-4.34481E+15,0
+4.34E+15,0
 decacque,0
 ceseri@discotecateatre.do,0
 "urbanitzacio europa-fuentes de san bernabe s/n,",0
@@ -18892,7 +18894,7 @@ maxsom,0
 p6lma13isti,0
 innes,0
 "travesia palacio 61, 1?d",0
-5.65818E+15,0
+5.66E+15,0
 23531966e,0
 ravinder,0
 brinton2@tartasconamor.lr,0
@@ -18941,7 +18943,7 @@ oda,0
 valdelinares,0
 ibarrangelu,0
 shukuri@velaconsultores.nl,0
-1.78478E+15,0
+1.78E+15,0
 8012,0
 *paci3nte,0
 79533872x,0
@@ -18949,7 +18951,7 @@ shukuri@velaconsultores.nl,0
 lheureux,0
 modigh,0
 lilias,0
-7.86165E+15,0
+7.86E+15,0
 "avinguda guix borrull 170,",0
 78267819s,0
 "calle abeto, 187,",0
@@ -18963,7 +18965,7 @@ sheara,0
 gino,0
 4.19E+15,0
 pia rusch,0
-6.95924E+15,0
+6.96E+15,0
 02624260y,0
 afkham,0
 c/ costa i llobera 83,0
@@ -19001,7 +19003,7 @@ hengevel,0
 eugen-fargue@andrestabernero.im,0
 cheyenne,0
 ramells lam,0
-1.93755E+15,0
+1.94E+15,0
 francois,0
 22193,0
 azadonad?a,0
@@ -19028,7 +19030,7 @@ szeto,0
 evacuacin,0
 "plaza alfonso el batallador, 117,",0
 goth,0
-6.9084E+15,0
+6.91E+15,0
 25140,0
 fauno,0
 0g83ma7ora,0
@@ -19043,7 +19045,7 @@ dybenko,0
 2946,0
 veronese vitte,0
 fontanarejo,0
-1.34688E+15,0
+1.35E+15,0
 darby,0
 corera,0
 "aaiun, 122 12?f",0
@@ -19052,7 +19054,7 @@ bogarde4@tiendasyofertas.museum,0
 "madrid, 27",0
 pryor,0
 horgan,0
-2.82171E+15,0
+2.82E+15,0
 narrillos del lamo,0
 terrassa,0
 "c/ la estrella, 182",0
@@ -19070,13 +19072,13 @@ naut aran,0
 vachiran,0
 marquand@eneltajo.bn,0
 villargordo del cabriel,0
-1.83452E+15,0
+1.83E+15,0
 atabillar,0
 oficios$o,0
 livio,0
 madhim,0
 claros lafragueta,0
-5.56841E+15,0
+5.57E+15,0
 kobeski,0
 6105,0
 afiligr*anado,0
@@ -19084,14 +19086,14 @@ afiligr*anado,0
 francina,0
 3349,0
 halford,0
-5.67192E+14,0
+5.67E+14,0
 19277,0
 .espejo,0
 magrath,0
 menaker,0
 97428124d,0
 retinte,0
-2.75211E+15,0
+2.75E+15,0
 16727733v,0
 silvina,0
 2427,0
@@ -19127,7 +19129,7 @@ fanning_shepherd@bruoseguridad.name,0
 beecher@mailboxrussia.gu,0
 hetera,0
 stacey@mediacar.la,0
-6.02828E+15,0
+6.03E+15,0
 he53e9ona,0
 jande,0
 46700,0
@@ -19147,15 +19149,15 @@ legrandv,0
 demoniaca,0
 colas@ozlon.rs,0
 clooney,0
-2.42593E+15,0
+2.43E+15,0
 "c/ encajeras, 40 4?f",0
 14860,0
-6.8388E+14,0
-6.45831E+15,0
+6.84E+14,0
+6.46E+15,0
 d_eslechar,0
 80937614q,0
 sotalugo,0
-1.85884E+15,0
+1.86E+15,0
 aguazo,0
 veronese@prestigecars.tv,0
 abordonar,0
@@ -19182,7 +19184,7 @@ correa cachopo,0
 intercesoriamente,0
 oskar,0
 margaux,0
-6.74367E+15,0
+6.74E+15,0
 dorice,0
 "calle pintor picasso, 182 5?d",0
 buisn andres,0
@@ -19190,7 +19192,7 @@ quiles,0
 40542,0
 sols galcera,0
 6653,0
-7.01035E+15,0
+7.01E+15,0
 pins turrubiartes,0
 pagny@cpanelweb.yu,0
 oa,0
@@ -19198,8 +19200,8 @@ spradlin@pcvirus.dz,0
 8167,0
 celadas,0
 "c/ afrodita 160, 5?b",0
-3.79662E+15,0
-5.41816E+15,0
+3.80E+15,0
+5.42E+15,0
 4562,0
 iraola rudi,0
 winningt,0
@@ -19207,7 +19209,7 @@ winningt,0
 22212,0
 kellogg@viajesinternacionales.ne,0
 duran manero,0
-1.21588E+15,0
+1.22E+15,0
 96277205x,0
 84638109h,0
 10200,0
@@ -19219,10 +19221,10 @@ milou,0
 "estrada mendiarte s/n, 10?a",0
 villazala,0
 orazio,0
-9.45491E+14,0
-8.51136E+15,0
+9.45E+14,0
+8.51E+15,0
 nickolau,0
-7.54804E+15,0
+7.55E+15,0
 9.90E+15,0
 faix,0
 695,0
@@ -19232,9 +19234,9 @@ carron,0
 boniquet jeria,0
 60578448j,0
 2563,0
-5.37091E+14,0
+5.37E+14,0
 boys@muebetuweb.mu,0
-6.74855E+15,0
+6.75E+15,0
 ntpadmin,0
 dido,0
 escal,0

@@ -27,8 +27,8 @@ def predict_sqli():
     model = load("sqli_model.pkl")
 
     # Load the CSV files containing the generated queries
-    simpleAgent_data = pd.read_csv("generated_queries_simpleAgent.csv")
-    dqnAgent_data = pd.read_csv("generated_queries_dqnAgent.csv")
+    simpleAgent_data = pd.read_csv("generated_queries_Agent2_simple.csv")
+    dqnAgent_data = pd.read_csv("generated_queries_Agent1_dqn.csv")
 
     # Preprocess the queries if necessary (e.g., handle NaN values, convert to strings)
     simpleAgent_data["Generated Queries"] = (
